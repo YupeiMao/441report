@@ -1,0 +1,44 @@
+{% extends "basic_app/base.html" %}
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="{% static 'review/search_bar.css' %}">
+
+  </head>
+
+{% block body_block %}
+  <div class="jumbotron">
+    <div class="row text-center">
+      <div class="col-md-6 offset-md-3">
+    <h1>Search Tech Company Reviews and Ratings </h1>
+    <br>
+    <form action="{% url 'basic_app:search_company' %}" method="post">
+    {% csrf_token %}
+    <input type="text" class="form-control" name="companyname" placeholder="Enter Company Name">
+    <br>
+    <button type="submit" class="btn btn-primary"> Search </button>
+
+    </form>
+
+    <form action="{% url 'basic_app:search' %}" method="get">
+      <br>
+      <input type="text" class="form-control" name="query" placeholder="Search for Reviews">
+      <br>
+      <button type="submit" class="btn btn-primary" > Search </button>
+
+
+    </form>
+
+
+
+    </div>
+  </div>
+</div>
+
+    {% endblock %}

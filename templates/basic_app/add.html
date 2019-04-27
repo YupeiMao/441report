@@ -1,0 +1,12 @@
+{% extends "basic_app/managereview.html" %}
+{% load staticfiles %}
+{% block edit_delete_block %}
+  <div class="jumbotron">
+  <h1>Add a Company!</h1>
+  <form enctype="multipart/form-data" method="post" >
+    {% csrf_token %}
+    {{ add_form.as_p }}
+    <input type="submit" name="" value="Add Company">
+  </form>
+</div>
+{% endblock %}

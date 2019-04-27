@@ -1,0 +1,57 @@
+{% extends "basic_app/base.html" %}
+{% block body_block %}
+<div class="jumbotron">
+  {%  if user.is_authenticated %}
+    <h5>Welcome <ins>{{ user.first_name }}</ins></h5>
+    <p>Here are your reviews</p>
+  {% else %}
+    <h1>Please login to write reviews</h1>
+  {% endif %}
+</div>
+
+
+<div class="djangotow">
+  {% if cur_review_info %}
+    <table class="table table-hover table-striped table-dark">
+      <thead>
+        <tr>
+          <th scope="col">RID</th>
+          <th scope="col">Company</th>
+          <th scope="col">Location</th>
+          <th scope="col">Position</th>
+          <th scope="col">Summary</th>
+
+          <th colspan="2" scope="col">Manage</th>
+        </tr>
+      </thead>
+      <tbody>
+
+
+     {% for acc in cur_review_info %}
+
+      <tr>
+
+        <th scope="row">{{ acc.0 }}</th>
+        <th scope="row">{{ acc.1 }}</th>
+        <td scope="row">{{ acc.2 }}, {{ acc.3 }},{{ acc.4 }}</td>
+        <td scope="row">{{ acc.5 }}</td>
+        <td scope="row">{{ acc.6 }}</td>
+        <td scope="row"><a href="{% url 'basic_app:edit_review' %}">Edit</a></td>
+        <td scope="row"><a href="{% url 'basic_app:delete_review' %}">Delete</a></td>
+      </tr>
+
+      {% endfor %}
+      <tr>
+        <th colspan="7" scope="row"><a href="{% url 'basic_app:add_review' %}">Add more Here</a></th>
+      </tr>
+      <tbody>
+    </table>
+    {% else %}
+  
+    {% endif %}
+</div>
+    <div class="container">
+      {% block edit_delete_block %}
+      {% endblock %}
+    </div>
+{% endblock %}

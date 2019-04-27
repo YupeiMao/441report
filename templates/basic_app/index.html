@@ -1,0 +1,14 @@
+{% extends "basic_app/base.html" %}
+
+{% block body_block %}
+<div class="jumbotron">
+  {%  if user.is_authenticated %}
+    <h5>Welcome {{ user.username }}</h5>
+    <h5> {{ user.email }}</h5>
+
+  {% else %}
+    <h1>Please login to write reviews</h1>
+  {% endif %}
+</div>
+
+{% endblock %}

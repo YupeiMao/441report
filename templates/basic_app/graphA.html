@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+{% extends "basic_app/base.html" %}
+{% load staticfiles %}
+
+{% block body_block %}
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    {% if graph %}
+    <div style="width:600;height:500">
+    {{ graph|safe }}
+    </div>
+    {% endif %}
+    <h1>Your best fit is <em>{{comp}}</em></h1>
+    <img stype="float:right"alt="Image" height="100" width="180" src="{{srcc}}">
+    <span style="width:10;height:10;background-color:orange">
+      Your matched company Radar Chart
+    </span>
+    <span style="width:10;height:10;background-color:#99b3ff">
+      Your Radar Chart
+    </span>
+  </body>
+</html>
+{% endblock %}

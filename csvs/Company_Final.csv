@@ -1,0 +1,2979 @@
+CID,name,country,state,city
+1,amazon,Argentina,NULL,Buenos Aires
+2,amazon,Australia,NULL,Brisbane
+3,amazon,Australia,NULL,Melbourne
+4,amazon,Australia,NULL,Sydney
+5,amazon,Australia,NULL,Thane
+6,amazon,Bahrain,NULL,Manama
+7,amazon,Bangladesh,NULL,Chak Nouda
+8,amazon,Bangladesh,NULL,Dhaka
+9,amazon,Bangladesh,NULL,Habiganj
+10,amazon,Bangladesh,NULL,Rangpur
+11,amazon,Bangladesh,NULL,Secunderābād
+12,amazon,Bangladesh,NULL,Unknown
+13,amazon,Bhutan,NULL,Thimphu
+14,amazon,Brazil,Federal District,Brasília
+15,amazon,Brazil,São Paulo,Brasil
+16,amazon,Brazil,São Paulo,São Paulo
+17,amazon,Brazil,NULL,Pune
+18,amazon,Brazil,NULL,Rio de Janeiro
+19,amazon,Canada,AB,Calgary
+20,amazon,Canada,AB,Edmonton
+21,amazon,Canada,BC,Burnaby
+22,amazon,Canada,BC,Delta
+23,amazon,Canada,BC,Nanaimo
+24,amazon,Canada,BC,New Westminster
+25,amazon,Canada,BC,Port Coquitlam
+26,amazon,Canada,BC,Surrey
+27,amazon,Canada,BC,Vancouver
+28,amazon,Canada,BC,Victoria
+29,amazon,Canada,ON,Brampton
+30,amazon,Canada,ON,Churchill
+31,amazon,Canada,ON,London
+32,amazon,Canada,ON,Milton
+33,amazon,Canada,ON,Mississauga
+34,amazon,Canada,ON,Mississauga Valley
+35,amazon,Canada,ON,Ottawa
+36,amazon,Canada,ON,Toronto
+37,amazon,Canada,ON,Vaughan
+38,amazon,Canada,ON,Windsor
+39,amazon,Canada,QC,Montreal
+40,amazon,Canada,SK,East Anglia
+41,amazon,Cayman Islands,NULL,Hell
+42,amazon,China,Beijing,Beijing
+43,amazon,China,Gansu,Zhangye
+44,amazon,China,Guangdong,Shenzhen
+45,amazon,China,Liaoning,Dalian
+46,amazon,China,Shanghai,Shanghai
+47,amazon,Colombia,NULL,San Bernardino
+48,amazon,Costa Rica,Alajuela,San José
+49,amazon,Costa Rica,Heredia,Lagunilla
+50,amazon,Costa Rica,Heredia,San Francisco
+51,amazon,Costa Rica,Heredia,San José
+52,amazon,Costa Rica,San Jose,Lagunilla
+53,amazon,Costa Rica,San Jose,San Jose
+54,amazon,Costa Rica,NULL,Calle Blancos
+55,amazon,Costa Rica,NULL,Coto Brus
+56,amazon,Costa Rica,NULL,Heredia
+57,amazon,Costa Rica,NULL,Mata de Plátano
+58,amazon,Costa Rica,NULL,Puntarenas
+59,amazon,Cote d'Ivoire,NULL,Abidjan
+60,amazon,Croatia,NULL,Rovinj
+61,amazon,Czech Republic,NULL,Dobrovíz
+62,amazon,Czech Republic,NULL,Karlovy Vary
+63,amazon,Czech Republic,NULL,Prague
+64,amazon,Democratic Republic of Congo,NULL,Mia
+65,amazon,Denmark,NULL,Copenhagen
+66,amazon,Dominican Republic,NULL,Santo Domingo
+67,amazon,East Timor,NULL,Pune
+68,amazon,Egypt,NULL,Alexandria
+69,amazon,Egypt,NULL,Cairo
+70,amazon,Engla,South East England,Berkshire
+71,amazon,Engla,South East England,Buckinghamshire
+72,amazon,Engla,South West England,Wiltshire
+73,amazon,Finland,NULL,Espoo
+74,amazon,France,NULL,Boves
+75,amazon,France,NULL,Cannes
+76,amazon,France,NULL,Clichy
+77,amazon,France,NULL,Courbevoie
+78,amazon,France,NULL,Élancourt
+79,amazon,France,NULL,Gidy
+80,amazon,France,NULL,Grenoble
+81,amazon,France,NULL,Lauwin-Planque
+82,amazon,France,NULL,Lille
+83,amazon,France,NULL,Lyon
+84,amazon,France,NULL,Montélimar
+85,amazon,France,NULL,Orléans
+86,amazon,France,NULL,Paris
+87,amazon,France,NULL,Saran
+88,amazon,France,NULL,Sevrey
+89,amazon,France,NULL,Strasbourg
+90,amazon,Germany,Bayern,Graben
+91,amazon,Germany,Bayern,Munich
+92,amazon,Germany,Luhe,Winsen
+93,amazon,Germany,Pfalz,Frankenthal
+94,amazon,Germany,Rheinland-Pfalz,Koblenz
+95,amazon,Germany,NULL,Bad Hersfeld
+96,amazon,Germany,NULL,Berlin
+97,amazon,Germany,NULL,Brieselang
+98,amazon,Germany,NULL,Burghaslach
+99,amazon,Germany,NULL,Cologne
+100,amazon,Germany,NULL,Dortmund
+101,amazon,Germany,NULL,Frankfurt am Main
+102,amazon,Germany,NULL,Kassel
+103,amazon,Germany,NULL,Kobern-Gondorf
+104,amazon,Germany,NULL,Leipzig
+105,amazon,Germany,NULL,Pforzheim
+106,amazon,Germany,NULL,Regensburg
+107,amazon,Germany,NULL,Rheinberg
+108,amazon,Germany,NULL,Werne
+109,amazon,Hong Kong,NULL,Hong Kong
+110,amazon,India,Chhattisgarh,Bilaspur
+111,amazon,India,Haryana,Gurgaon
+112,amazon,India,Karnataka,Indi
+113,amazon,India,Maharashtra,Nagpur
+114,amazon,India,Punjab,Jalandhar
+115,amazon,India,Punjab,Mohali
+116,amazon,India,Rajasthan,Jaipur
+117,amazon,India,Rajasthan,Pratapgarh
+118,amazon,India,Uttar Pradesh,Gurgaon
+119,amazon,India,West Bengal,Jaipur
+120,amazon,India,NULL,Ahmedabad
+121,amazon,India,NULL,Allahabad
+122,amazon,India,NULL,Balanagar
+123,amazon,India,NULL,Banga
+124,amazon,India,NULL,Bangalore Rural
+125,amazon,India,NULL,Baran
+126,amazon,India,NULL,ben
+127,amazon,India,NULL,Bengaluru
+128,amazon,India,NULL,Bhiwandi
+129,amazon,India,NULL,Bhopal
+130,amazon,India,NULL,Chandigarh
+131,amazon,India,NULL,Chen
+132,amazon,India,NULL,Chennai
+133,amazon,India,NULL,Chennimalai
+134,amazon,India,NULL,Chennur
+135,amazon,India,NULL,Coimbatore
+136,amazon,India,NULL,Coimbatore North
+137,amazon,India,NULL,Coimbatore South
+138,amazon,India,NULL,Contai
+139,amazon,India,NULL,Fursungi
+140,amazon,India,NULL,Ghaziabad
+141,amazon,India,NULL,Greater Noida
+142,amazon,India,NULL,Gudgaon
+143,amazon,India,NULL,Guwahati
+144,amazon,India,NULL,Haridwar
+145,amazon,India,NULL,Haveli
+146,amazon,India,NULL,Hinjewadi
+147,amazon,India,NULL,Hyderabad
+148,amazon,India,NULL,Indore
+149,amazon,India,NULL,Khammam
+150,amazon,India,NULL,Kochi
+151,amazon,India,NULL,Kolkata
+152,amazon,India,NULL,Kollam
+153,amazon,India,NULL,Kurali
+154,amazon,India,NULL,Kuttiadi
+155,amazon,India,NULL,Lohgaon
+156,amazon,India,NULL,Lucknow
+157,amazon,India,NULL,Medchal
+158,amazon,India,NULL,Mewat
+159,amazon,India,NULL,Mira Road
+160,amazon,India,NULL,Mumbai
+161,amazon,India,NULL,Murshidabad
+162,amazon,India,NULL,Mysore
+163,amazon,India,NULL,Nagla Dehli
+164,amazon,India,NULL,Nanded
+165,amazon,India,NULL,New Delhi
+166,amazon,India,NULL,Noida
+167,amazon,India,NULL,North Goa
+168,amazon,India,NULL,Perungudi
+169,amazon,India,NULL,Ponneri
+170,amazon,India,NULL,Pune
+171,amazon,India,NULL,Pune City
+172,amazon,India,NULL,Sangrur
+173,amazon,India,NULL,Secunderabad
+174,amazon,India,NULL,Shamshabad
+175,amazon,India,NULL,Sholinganallur
+176,amazon,India,NULL,Sonipat
+177,amazon,India,NULL,South
+178,amazon,India,NULL,Sriperumbudur
+179,amazon,India,NULL,Surat
+180,amazon,India,NULL,Taramani
+181,amazon,India,NULL,Thane
+182,amazon,India,NULL,Tharamani
+183,amazon,India,NULL,Thrissur
+184,amazon,India,NULL,Tiruchchirappalli
+185,amazon,India,NULL,Tiruppur
+186,amazon,India,NULL,Uppal
+187,amazon,India,NULL,Vadodara
+188,amazon,India,NULL,Vellore
+189,amazon,India,NULL,Vijayawada
+190,amazon,India,NULL,Visakhapatnam
+191,amazon,India,NULL,Warangal
+192,amazon,India,NULL,Yashawantnagar
+193,amazon,Ireland,Co. Dublin,Dublin
+194,amazon,Ireland,NULL,Carrigaline
+195,amazon,Ireland,NULL,Cork
+196,amazon,Ireland,NULL,Roscommon
+197,amazon,Israel,NULL,Er Reina
+198,amazon,Israel,NULL,Haifa
+199,amazon,Israel,NULL,Tel Aviv-Yafo
+200,amazon,Italy,Emilia-Romagna,Castel San Giovanni
+201,amazon,Italy,Sardinia,Cagliari
+202,amazon,Italy,NULL,Marina di Caulonia
+203,amazon,Italy,NULL,Milan
+204,amazon,Italy,NULL,Milano
+205,amazon,Italy,NULL,Naples
+206,amazon,Italy,NULL,Rome
+207,amazon,Italy,NULL,Vercelli
+208,amazon,Jamaica,NULL,Hard Bargain
+209,amazon,Jamaica,NULL,Papine
+210,amazon,Jamaica,NULL,Washington Gardens
+211,amazon,Japan,Chiba,Ichikawa
+212,amazon,Japan,Osaka,Nakanoshima
+213,amazon,Japan,Osaka,Sakai
+214,amazon,Japan,NULL,Hachiōji
+215,amazon,Japan,NULL,Sapporo-shi
+216,amazon,Japan,NULL,Tokyo
+217,amazon,Jordan,Amman Governorate,Ḩawwārah
+218,amazon,Luxembourg,NULL,Dudelange
+219,amazon,Luxembourg,NULL,Kirchberg
+220,amazon,Luxembourg,NULL,Luxembourg
+221,amazon,Malaysia,Sarawak,Kuching
+222,amazon,Malaysia,NULL,Cyberjaya
+223,amazon,Malaysia,NULL,Kuala Lumpur
+224,amazon,Mexico,Distrito Federal,Mexico
+225,amazon,Mexico,NULL,Mexico City
+226,amazon,Morocco,NULL,Rabat
+227,amazon,NaC,NaC,NaC
+228,amazon,Netherlands,NULL,Amsterdam
+229,amazon,Netherlands,NULL,Eindhoven
+230,amazon,Netherlands,NULL,The Hague
+231,amazon,Pakistan,Sind,Hyderābād
+232,amazon,Philippines,Manila,Manila
+233,amazon,Philippines,Negros Occidental,Banga
+234,amazon,Philippines,Tarlac,Tarlac
+235,amazon,Philippines,NULL,Asia
+236,amazon,Poland,Greater Poland,Poznań
+237,amazon,Poland,Greater Poland,Sosnowiec
+238,amazon,Poland,NULL,Gdańsk
+239,amazon,Poland,NULL,Warsaw
+240,amazon,Poland,NULL,Wrocław
+241,amazon,Portugal,NULL,Arruda dos Vinhos
+242,amazon,Portugal,NULL,Lisbon
+243,amazon,Romania,NULL,Bucharest
+244,amazon,Romania,NULL,Iaşi
+245,amazon,Russia,NULL,Amba
+246,amazon,Saudi Arabia,NULL,Dammam
+247,amazon,Saudi Arabia,NULL,Riyadh
+248,amazon,Singapore,East,Tampines
+249,amazon,Singapore,NULL,Singapore
+250,amazon,Slovakia,NULL,Bratislava
+251,amazon,Slovakia,NULL,Bratislava - Rača
+252,amazon,Slovakia,NULL,Praha
+253,amazon,South Africa,NULL,Atlanta
+254,amazon,South Africa,NULL,Cape Town
+255,amazon,South Africa,NULL,Port Elizabeth
+256,amazon,South Africa,NULL,Simon's Town
+257,amazon,South Africa,NULL,Virginia
+258,amazon,South Korea,NULL,Seoul
+259,amazon,Spain,NULL,Barcelona
+260,amazon,Spain,NULL,El Prat de Llobregat
+261,amazon,Spain,NULL,Las Rozas de Madrid
+262,amazon,Spain,NULL,Madrid
+263,amazon,Spain,NULL,San Fernando de Henares
+264,amazon,Sri Lanka,NULL,Ambala
+265,amazon,Sweden,Stockholm,Stockholm
+266,amazon,Switzerland,NULL,Geneva
+267,amazon,Switzerland,NULL,Zürich
+268,amazon,Tanzania,Dar es Salaam,Dar es Salaam
+269,amazon,Turkey,NULL,Istanbul
+270,amazon,Uganda,NULL,Apac
+271,amazon,UK,England,Bedford
+272,amazon,UK,England,Birmingham
+273,amazon,UK,England,Bolton
+274,amazon,UK,England,Bournemouth
+275,amazon,UK,England,Brighton
+276,amazon,UK,England,Bristol
+277,amazon,UK,England,Bromley
+278,amazon,UK,England,Byfleet
+279,amazon,UK,England,Castle Donington
+280,amazon,UK,England,City of Westminster
+281,amazon,UK,England,Coalville
+282,amazon,UK,England,Croydon
+283,amazon,UK,England,Daventry
+284,amazon,UK,England,Doncaster
+285,amazon,UK,England,Dunstable
+286,amazon,UK,England,Dunstall
+287,amazon,UK,England,East of England
+288,amazon,UK,England,Farringdon
+289,amazon,UK,England,Great Sankey
+290,amazon,UK,England,Hayes
+291,amazon,UK,England,Hemel Hempstead
+292,amazon,UK,England,Holborn
+293,amazon,UK,England,Knowsley
+294,amazon,UK,England,Leeds
+295,amazon,UK,England,Leicester
+296,amazon,UK,England,Liverpool
+297,amazon,UK,England,London
+298,amazon,UK,England,Loughborough
+299,amazon,UK,England,Manchester
+300,amazon,UK,England,Milton Keynes
+301,amazon,UK,England,Newhaven
+302,amazon,UK,England,No Man's Heath
+303,amazon,UK,England,North West England
+304,amazon,UK,England,Norwich
+305,amazon,UK,England,Nottingham
+306,amazon,UK,England,Oldham
+307,amazon,UK,England,Peterborough
+308,amazon,UK,England,Ridgmont
+309,amazon,UK,England,Rugeley
+310,amazon,UK,England,South East England
+311,amazon,UK,England,Stafford
+312,amazon,UK,England,Stockport
+313,amazon,UK,England,Tilbrook
+314,amazon,UK,England,Tilbury
+315,amazon,UK,England,Walton-on-Thames
+316,amazon,UK,England,Wednesbury
+317,amazon,UK,England,West Bromwich
+318,amazon,UK,England,West Thurrock
+319,amazon,UK,England,Wimbledon Park
+320,amazon,UK,England,Woking
+321,amazon,UK,England,Wolverhampton
+322,amazon,UK,England,Yorkshire and the Humber
+323,amazon,UK,Northern Ireland,Belfast
+324,amazon,UK,Scotland,Bathgate
+325,amazon,UK,Scotland,Dundee
+326,amazon,UK,Scotland,Dunfermline
+327,amazon,UK,Scotland,Edinburgh
+328,amazon,UK,Scotland,Glasgow
+329,amazon,UK,Scotland,Glenrothes
+330,amazon,UK,Scotland,Gourock
+331,amazon,UK,Scotland,Kirkcaldy
+332,amazon,UK,Scotland,Motherwell
+333,amazon,UK,Wales,Bridgend
+334,amazon,UK,Wales,Loughor
+335,amazon,UK,Wales,Scurlage
+336,amazon,UK,Wales,Swansea
+337,amazon,United Arab Emirates,Abu Dhabi,Abu Dhabi
+338,amazon,United Arab Emirates,NULL,Dubai
+339,amazon,USA,AK,Hyder
+340,amazon,USA,AL,Anniston
+341,amazon,USA,AL,Mobile
+342,amazon,USA,AL,Point Clear
+343,amazon,USA,AL,Theodore
+344,amazon,USA,AR,Bentonville
+345,amazon,USA,AR,Coffeeville
+346,amazon,USA,AR,Little Rock
+347,amazon,USA,AZ,Apache Junction
+348,amazon,USA,AZ,Buckeye
+349,amazon,USA,AZ,Cave Creek
+350,amazon,USA,AZ,Chandler
+351,amazon,USA,AZ,Gilbert
+352,amazon,USA,AZ,Glendale
+353,amazon,USA,AZ,Goodyear
+354,amazon,USA,AZ,Green Valley
+355,amazon,USA,AZ,Laveen
+356,amazon,USA,AZ,Phoenix
+357,amazon,USA,AZ,Queen Creek
+358,amazon,USA,AZ,Sierra Vista
+359,amazon,USA,AZ,South Phoenix
+360,amazon,USA,AZ,Tempe
+361,amazon,USA,AZ,Tolleson
+362,amazon,USA,AZ,Tucson
+363,amazon,USA,CA,Apple Valley
+364,amazon,USA,CA,Avenal
+365,amazon,USA,CA,Banning
+366,amazon,USA,CA,Berkeley
+367,amazon,USA,CA,Brisbane
+368,amazon,USA,CA,Buena Park
+369,amazon,USA,CA,Cal-Ida
+370,amazon,USA,CA,Cal Poly SLO
+371,amazon,USA,CA,Carlsbad
+372,amazon,USA,CA,Central Valley
+373,amazon,USA,CA,Chatsworth
+374,amazon,USA,CA,Chino
+375,amazon,USA,CA,Commerce
+376,amazon,USA,CA,Corona
+377,amazon,USA,CA,Culver City
+378,amazon,USA,CA,Cupertino
+379,amazon,USA,CA,Dublin
+380,amazon,USA,CA,East Palo Alto
+381,amazon,USA,CA,El Monte
+382,amazon,USA,CA,Fontana
+383,amazon,USA,CA,Foster City
+384,amazon,USA,CA,Fremont
+385,amazon,USA,CA,Fresno
+386,amazon,USA,CA,Fullerton
+387,amazon,USA,CA,Gardena
+388,amazon,USA,CA,Glendale
+389,amazon,USA,CA,Hawthorne
+390,amazon,USA,CA,Hayward
+391,amazon,USA,CA,Hermosa Beach
+392,amazon,USA,CA,Hesperia
+393,amazon,USA,CA,Highland
+394,amazon,USA,CA,Irvine
+395,amazon,USA,CA,Jurupa Valley
+396,amazon,USA,CA,Laguna Niguel
+397,amazon,USA,CA,Lake Forest
+398,amazon,USA,CA,Lathrop
+399,amazon,USA,CA,Loma Linda
+400,amazon,USA,CA,London
+401,amazon,USA,CA,Long Beach
+402,amazon,USA,CA,Los Angeles
+403,amazon,USA,CA,Manteca
+404,amazon,USA,CA,Menifee
+405,amazon,USA,CA,Menlo Park
+406,amazon,USA,CA,Mentone
+407,amazon,USA,CA,Mira Loma
+408,amazon,USA,CA,Modesto
+409,amazon,USA,CA,Moreno Valley
+410,amazon,USA,CA,Mountain House
+411,amazon,USA,CA,Mountain View
+412,amazon,USA,CA,National City
+413,amazon,USA,CA,Newark
+414,amazon,USA,CA,Norco
+415,amazon,USA,CA,North Sacramento
+416,amazon,USA,CA,Oakland
+417,amazon,USA,CA,Ontario
+418,amazon,USA,CA,Orange
+419,amazon,USA,CA,Palmdale
+420,amazon,USA,CA,Palo Alto
+421,amazon,USA,CA,Patterson
+422,amazon,USA,CA,Perris
+423,amazon,USA,CA,Rancho Bernardo
+424,amazon,USA,CA,Rancho Cucamonga
+425,amazon,USA,CA,Redlands
+426,amazon,USA,CA,Redondo Beach
+427,amazon,USA,CA,Rialto
+428,amazon,USA,CA,Richmond
+429,amazon,USA,CA,Riverside
+430,amazon,USA,CA,Rosemead
+431,amazon,USA,CA,Sacramento
+432,amazon,USA,CA,Salida
+433,amazon,USA,CA,San Bernardino
+434,amazon,USA,CA,San Carlos
+435,amazon,USA,CA,San Diego
+436,amazon,USA,CA,San Francisco
+437,amazon,USA,CA,San Jacinto
+438,amazon,USA,CA,San Jose
+439,amazon,USA,CA,San Leandro
+440,amazon,USA,CA,San Luis Obispo
+441,amazon,USA,CA,San Pedro
+442,amazon,USA,CA,Santa Barbara
+443,amazon,USA,CA,Santa Clara
+444,amazon,USA,CA,Santa Clarita
+445,amazon,USA,CA,Santa Monica
+446,amazon,USA,CA,Sn Bernrdno
+447,amazon,USA,CA,South San Francisco
+448,amazon,USA,CA,Stockton
+449,amazon,USA,CA,Sunnyvale
+450,amazon,USA,CA,Topanga
+451,amazon,USA,CA,Tracy
+452,amazon,USA,CA,Turlock
+453,amazon,USA,CA,Union City
+454,amazon,USA,CA,Upland
+455,amazon,USA,CA,Vacaville
+456,amazon,USA,CA,Victorville
+457,amazon,USA,CA,West Sacramento
+458,amazon,USA,CA,Wildomar
+459,amazon,USA,CA,Winchester
+460,amazon,USA,CO,Aurora
+461,amazon,USA,CO,Denver
+462,amazon,USA,CO,Englewood
+463,amazon,USA,CO,Thornton
+464,amazon,USA,CT,East Wallingford
+465,amazon,USA,CT,Hamden
+466,amazon,USA,CT,Hartford
+467,amazon,USA,CT,Meriden
+468,amazon,USA,CT,New Haven
+469,amazon,USA,CT,South Windsor
+470,amazon,USA,CT,Wallingford
+471,amazon,USA,CT,Waterbury
+472,amazon,USA,CT,West Hartford
+473,amazon,USA,CT,Windsor
+474,amazon,USA,CT,Wolcott
+475,amazon,USA,DC,Washington
+476,amazon,USA,DE,Bear
+477,amazon,USA,DE,Dover
+478,amazon,USA,DE,Middletown
+479,amazon,USA,DE,Milford
+480,amazon,USA,DE,Newark
+481,amazon,USA,DE,New Castle
+482,amazon,USA,DE,Wilmington
+483,amazon,USA,FL,Brandon
+484,amazon,USA,FL,Cape Coral
+485,amazon,USA,FL,Davenport
+486,amazon,USA,FL,Daytona Beach
+487,amazon,USA,FL,De Land
+488,amazon,USA,FL,Doral
+489,amazon,USA,FL,Fort Lauderdale
+490,amazon,USA,FL,Frostproof
+491,amazon,USA,FL,Gainesville
+492,amazon,USA,FL,Groveland
+493,amazon,USA,FL,Hialeah
+494,amazon,USA,FL,Jacksonville
+495,amazon,USA,FL,Lakeland
+496,amazon,USA,FL,Lakewood Ranch
+497,amazon,USA,FL,Lauderhill
+498,amazon,USA,FL,Lithia
+499,amazon,USA,FL,Miami
+500,amazon,USA,FL,Miami Beach
+501,amazon,USA,FL,Miami Gardens
+502,amazon,USA,FL,Miramar
+503,amazon,USA,FL,Naples
+504,amazon,USA,FL,Ocala
+505,amazon,USA,FL,Opa-locka
+506,amazon,USA,FL,Orlando
+507,amazon,USA,FL,Palmetto
+508,amazon,USA,FL,Palm Harbor
+509,amazon,USA,FL,Panama City
+510,amazon,USA,FL,Parrish
+511,amazon,USA,FL,Pecan Park
+512,amazon,USA,FL,Pensacola
+513,amazon,USA,FL,Pompano Beach
+514,amazon,USA,FL,Port St Lucie
+515,amazon,USA,FL,Riverview
+516,amazon,USA,FL,Ruskin
+517,amazon,USA,FL,Saint Augustine
+518,amazon,USA,FL,Saint Petersburg
+519,amazon,USA,FL,South Pasadena
+520,amazon,USA,FL,Spring Hill
+521,amazon,USA,FL,Sun City Center
+522,amazon,USA,FL,Tallahassee
+523,amazon,USA,FL,Tampa
+524,amazon,USA,FL,Tampa Palms
+525,amazon,USA,FL,Tedder
+526,amazon,USA,FL,Venice
+527,amazon,USA,FL,Wesley Chapel
+528,amazon,USA,FL,West Palm Beach
+529,amazon,USA,GA,Acworth
+530,amazon,USA,GA,Albany
+531,amazon,USA,GA,Atlanta
+532,amazon,USA,GA,Augusta
+533,amazon,USA,GA,Bainbridge
+534,amazon,USA,GA,Braselton
+535,amazon,USA,GA,Canton
+536,amazon,USA,GA,Chickamauga
+537,amazon,USA,GA,College Park
+538,amazon,USA,GA,Columbus
+539,amazon,USA,GA,Covington
+540,amazon,USA,GA,Dalton
+541,amazon,USA,GA,Douglas
+542,amazon,USA,GA,Duluth
+543,amazon,USA,GA,East Point
+544,amazon,USA,GA,Jefferson
+545,amazon,USA,GA,Johns Creek
+546,amazon,USA,GA,Lawrenceville
+547,amazon,USA,GA,Lithonia
+548,amazon,USA,GA,McDonough
+549,amazon,USA,GA,Morrow
+550,amazon,USA,GA,North Atlanta
+551,amazon,USA,GA,Palmetto
+552,amazon,USA,GA,Ringgold
+553,amazon,USA,GA,Saint Marys
+554,amazon,USA,GA,Savannah
+555,amazon,USA,GA,Smyrna
+556,amazon,USA,GA,Union City
+557,amazon,USA,GA,Woodstock
+558,amazon,USA,IA,Des Moines
+559,amazon,USA,ID,France
+560,amazon,USA,ID,Mountain Home
+561,amazon,USA,IL,Aurora
+562,amazon,USA,IL,Belleville
+563,amazon,USA,IL,Bolingbrook
+564,amazon,USA,IL,Champaign
+565,amazon,USA,IL,Chicago
+566,amazon,USA,IL,Crest Hill
+567,amazon,USA,IL,Crete
+568,amazon,USA,IL,East Saint Louis
+569,amazon,USA,IL,Edwardsville
+570,amazon,USA,IL,Elgin
+571,amazon,USA,IL,Flossmoor
+572,amazon,USA,IL,Granite City
+573,amazon,USA,IL,Joliet
+574,amazon,USA,IL,Lisle
+575,amazon,USA,IL,Lockport
+576,amazon,USA,IL,Monee
+577,amazon,USA,IL,Morton Grove
+578,amazon,USA,IL,Mundelein
+579,amazon,USA,IL,Naperville
+580,amazon,USA,IL,North Chicago
+581,amazon,USA,IL,Romeoville
+582,amazon,USA,IL,Skokie
+583,amazon,USA,IL,Urbana
+584,amazon,USA,IL,Waukegan
+585,amazon,USA,IL,Wood Dale
+586,amazon,USA,IN,Anderson
+587,amazon,USA,IN,Bloomington
+588,amazon,USA,IN,Charlestown
+589,amazon,USA,IN,Clarksville
+590,amazon,USA,IN,Greenwood
+591,amazon,USA,IN,Illinoi
+592,amazon,USA,IN,Indianapolis
+593,amazon,USA,IN,Ireland
+594,amazon,USA,IN,Jeff
+595,amazon,USA,IN,Jeffersonville
+596,amazon,USA,IN,New Albany
+597,amazon,USA,IN,North Indianapolis
+598,amazon,USA,IN,Plainfield
+599,amazon,USA,IN,South Bend
+600,amazon,USA,IN,West Lafayette
+601,amazon,USA,IN,Whitestown
+602,amazon,USA,KS,Coffeyville
+603,amazon,USA,KS,Edgerton
+604,amazon,USA,KS,Garden City
+605,amazon,USA,KS,Gardner
+606,amazon,USA,KS,Kansas City
+607,amazon,USA,KS,Lenexa
+608,amazon,USA,KS,Merriam
+609,amazon,USA,KS,Olathe
+610,amazon,USA,KS,Overland Park
+611,amazon,USA,KS,Shawnee
+612,amazon,USA,KS,Topeka
+613,amazon,USA,KY,Campbellsville
+614,amazon,USA,KY,Campbellsvlle
+615,amazon,USA,KY,Covington
+616,amazon,USA,KY,Danville
+617,amazon,USA,KY,Hebron
+618,amazon,USA,KY,Jeffersonville
+619,amazon,USA,KY,Lexington
+620,amazon,USA,KY,Lexington-Fayette
+621,amazon,USA,KY,Louisville
+622,amazon,USA,KY,Maysville
+623,amazon,USA,KY,Owingsville
+624,amazon,USA,KY,Pine Knot
+625,amazon,USA,KY,Se Ree
+626,amazon,USA,KY,Shelbyville
+627,amazon,USA,KY,Shepherdsville
+628,amazon,USA,KY,Winchester
+629,amazon,USA,LA,Baton Rouge
+630,amazon,USA,LA,Forest
+631,amazon,USA,LA,New Orleans
+632,amazon,USA,MA,Amherst
+633,amazon,USA,MA,Boston
+634,amazon,USA,MA,Brockton
+635,amazon,USA,MA,Cambridge
+636,amazon,USA,MA,Chelsea
+637,amazon,USA,MA,Dedham
+638,amazon,USA,MA,Everett
+639,amazon,USA,MA,Fall River
+640,amazon,USA,MA,Holliston
+641,amazon,USA,MA,Milford
+642,amazon,USA,MA,North Reading
+643,amazon,USA,MA,Peabody
+644,amazon,USA,MA,Stoughton
+645,amazon,USA,MA,Wakefield
+646,amazon,USA,MD,Aberdeen
+647,amazon,USA,MD,Baltimore
+648,amazon,USA,MD,Blank
+649,amazon,USA,MD,Cecil Manor
+650,amazon,USA,MD,College Park
+651,amazon,USA,MD,Dundalk
+652,amazon,USA,MD,Elkton
+653,amazon,USA,MD,Essex
+654,amazon,USA,MD,Glen Burnie
+655,amazon,USA,MD,Joppatowne
+656,amazon,USA,MD,North East
+657,amazon,USA,MD,Parkville
+658,amazon,USA,MD,Patapsco
+659,amazon,USA,MD,Pikesville
+660,amazon,USA,MD,Pomfret
+661,amazon,USA,MD,Rockville
+662,amazon,USA,MD,Sparrows Point
+663,amazon,USA,MD,White Marsh
+664,amazon,USA,ME,Bangor
+665,amazon,USA,ME,China
+666,amazon,USA,ME,Poland
+667,amazon,USA,MI,Brownstown
+668,amazon,USA,MI,Brownstown Township
+669,amazon,USA,MI,Canton
+670,amazon,USA,MI,Cheboygan
+671,amazon,USA,MI,Detroit
+672,amazon,USA,MI,Grand Rapids
+673,amazon,USA,MI,Livonia
+674,amazon,USA,MI,Rochester
+675,amazon,USA,MI,Romulus
+676,amazon,USA,MN,Duluth
+677,amazon,USA,MN,Eagan
+678,amazon,USA,MN,Minneapolis
+679,amazon,USA,MN,Saint Cloud
+680,amazon,USA,MN,Saint Paul
+681,amazon,USA,MN,Shakopee
+682,amazon,USA,MO,Hazelwood
+683,amazon,USA,MO,Kansas City
+684,amazon,USA,MO,Ruskin
+685,amazon,USA,MO,Saint Louis
+686,amazon,USA,MS,Jackson
+687,amazon,USA,MT,Amazon
+688,amazon,USA,NC,Apex
+689,amazon,USA,NC,Asheboro
+690,amazon,USA,NC,Asheville
+691,amazon,USA,NC,Cary
+692,amazon,USA,NC,Charlotte
+693,amazon,USA,NC,Concord
+694,amazon,USA,NC,Durham
+695,amazon,USA,NC,Greensboro
+696,amazon,USA,NC,Indian Trail
+697,amazon,USA,NC,Jacksonville
+698,amazon,USA,NC,Lexington
+699,amazon,USA,NC,Morrisville
+700,amazon,USA,NC,New Bern
+701,amazon,USA,NC,North Concord
+702,amazon,USA,NC,Raleigh
+703,amazon,USA,NC,Wake Forest
+704,amazon,USA,NC,West Asheville
+705,amazon,USA,NC,Wilmington
+706,amazon,USA,NC,Winston-Salem
+707,amazon,USA,ND,Fargo
+708,amazon,USA,ND,Grand Forks
+709,amazon,USA,NH,Manchester
+710,amazon,USA,NH,Nashua
+711,amazon,USA,NH,Rochester
+712,amazon,USA,NJ,Avenel
+713,amazon,USA,NJ,Bellmawr
+714,amazon,USA,NJ,Bergenfield
+715,amazon,USA,NJ,Brick
+716,amazon,USA,NJ,Browns Mills
+717,amazon,USA,NJ,Carteret
+718,amazon,USA,NJ,Cranbury
+719,amazon,USA,NJ,Edison
+720,amazon,USA,NJ,Elizabeth
+721,amazon,USA,NJ,Florence
+722,amazon,USA,NJ,Florence Station
+723,amazon,USA,NJ,Jersey City
+724,amazon,USA,NJ,Logan Township
+725,amazon,USA,NJ,Middletown
+726,amazon,USA,NJ,Monroeville
+727,amazon,USA,NJ,Moonachie
+728,amazon,USA,NJ,Newark
+729,amazon,USA,NJ,New Brunswick
+730,amazon,USA,NJ,Orange
+731,amazon,USA,NJ,Paramus
+732,amazon,USA,NJ,Pemberton
+733,amazon,USA,NJ,Piscataway
+734,amazon,USA,NJ,Robbinsville
+735,amazon,USA,NJ,Robinsville
+736,amazon,USA,NJ,Roselle
+737,amazon,USA,NJ,Sea Girt
+738,amazon,USA,NJ,Somerset
+739,amazon,USA,NJ,Swedesboro
+740,amazon,USA,NJ,Tabernacle
+741,amazon,USA,NJ,Teterboro
+742,amazon,USA,NJ,Toms River
+743,amazon,USA,NJ,Trenton
+744,amazon,USA,NJ,Waldwick
+745,amazon,USA,NJ,West Carteret
+746,amazon,USA,NJ,Willingboro
+747,amazon,USA,NJ,Woodbridge
+748,amazon,USA,NM,Alamogordo
+749,amazon,USA,NM,Albuquerque
+750,amazon,USA,NV,Fernley
+751,amazon,USA,NV,Henderson
+752,amazon,USA,NV,Las Vegas
+753,amazon,USA,NV,North Las Vegas
+754,amazon,USA,NV,Reno
+755,amazon,USA,NY,Amherst
+756,amazon,USA,NY,Bethpage
+757,amazon,USA,NY,Bronx
+758,amazon,USA,NY,Brooklyn
+759,amazon,USA,NY,Buffalo
+760,amazon,USA,NY,Forest Hills
+761,amazon,USA,NY,Huntington
+762,amazon,USA,NY,Ithaca
+763,amazon,USA,NY,Lancaster
+764,amazon,USA,NY,New York
+765,amazon,USA,NY,North Sea
+766,amazon,USA,NY,Staten Island
+767,amazon,USA,NY,Troy
+768,amazon,USA,OH,Akron
+769,amazon,USA,OH,Cincinnati
+770,amazon,USA,OH,Cleveland
+771,amazon,USA,OH,Columbus
+772,amazon,USA,OH,Dayton
+773,amazon,USA,OH,Dublin
+774,amazon,USA,OH,Etna
+775,amazon,USA,OH,Euclid
+776,amazon,USA,OH,Fairfield
+777,amazon,USA,OH,Groveport
+778,amazon,USA,OH,Lancaster
+779,amazon,USA,OH,Middletown
+780,amazon,USA,OH,Obetz
+781,amazon,USA,OH,Oregon
+782,amazon,USA,OH,Twinsburg
+783,amazon,USA,OH,West Chester
+784,amazon,USA,OH,West Union
+785,amazon,USA,OH,Williamsburg
+786,amazon,USA,OK,Oklahoma City
+787,amazon,USA,OK,Prague
+788,amazon,USA,OR,Bend
+789,amazon,USA,OR,Boardman
+790,amazon,USA,OR,Eugene
+791,amazon,USA,OR,Hermiston
+792,amazon,USA,OR,Hillsboro
+793,amazon,USA,OR,Pendleton
+794,amazon,USA,OR,Portland
+795,amazon,USA,OR,Redland
+796,amazon,USA,OR,Remote
+797,amazon,USA,OR,Salem
+798,amazon,USA,OR,Umatilla
+799,amazon,USA,PA,Allentown
+800,amazon,USA,PA,Bloomsburg
+801,amazon,USA,PA,Breinigsville
+802,amazon,USA,PA,Bridgeville
+803,amazon,USA,PA,Carlisle
+804,amazon,USA,PA,Chester
+805,amazon,USA,PA,Crafton
+806,amazon,USA,PA,Downingtown
+807,amazon,USA,PA,Easton
+808,amazon,USA,PA,Eastvale
+809,amazon,USA,PA,Emmaus
+810,amazon,USA,PA,Erie
+811,amazon,USA,PA,Fogelsville
+812,amazon,USA,PA,Glen Mills
+813,amazon,USA,PA,Goldsboro
+814,amazon,USA,PA,Gouldsboro
+815,amazon,USA,PA,Harrisburg
+816,amazon,USA,PA,Hazelton Mills
+817,amazon,USA,PA,Hazleton
+818,amazon,USA,PA,Hazle Township
+819,amazon,USA,PA,Home
+820,amazon,USA,PA,King of Prussia
+821,amazon,USA,PA,Langhorne
+822,amazon,USA,PA,Lewisberry
+823,amazon,USA,PA,Lewisburg
+824,amazon,USA,PA,Mechanicsburg
+825,amazon,USA,PA,Monroeville
+826,amazon,USA,PA,Nescopeck
+827,amazon,USA,PA,Newtown
+828,amazon,USA,PA,Northampton
+829,amazon,USA,PA,North East
+830,amazon,USA,PA,Penn
+831,amazon,USA,PA,Penn Hills
+832,amazon,USA,PA,Phila
+833,amazon,USA,PA,Philadelphia
+834,amazon,USA,PA,Pitts
+835,amazon,USA,PA,Pittsburgh
+836,amazon,USA,PA,Pittston
+837,amazon,USA,PA,Reading
+838,amazon,USA,PA,Saylorsburg
+839,amazon,USA,PA,Shillington
+840,amazon,USA,PA,Shippensburg
+841,amazon,USA,PA,State College
+842,amazon,USA,PA,Trexlertown
+843,amazon,USA,PA,Wilkes-Barre
+844,amazon,USA,PA,Yardley
+845,amazon,USA,PA,York
+846,amazon,USA,SC,Cayce
+847,amazon,USA,SC,Charleston
+848,amazon,USA,SC,Columbia
+849,amazon,USA,SC,Easley
+850,amazon,USA,SC,East Spartanburg
+851,amazon,USA,SC,Gaston
+852,amazon,USA,SC,Goose Creek
+853,amazon,USA,SC,Greenville
+854,amazon,USA,SC,Greer
+855,amazon,USA,SC,Irmo
+856,amazon,USA,SC,Lexington
+857,amazon,USA,SC,North Charleston
+858,amazon,USA,SC,Simpsonville
+859,amazon,USA,SC,Spartanburg
+860,amazon,USA,SC,Taylors
+861,amazon,USA,SC,West Columbia
+862,amazon,USA,SC,Woodruff
+863,amazon,USA,TN,Charleston
+864,amazon,USA,TN,Chattanooga
+865,amazon,USA,TN,Clarksville
+866,amazon,USA,TN,Cleveland
+867,amazon,USA,TN,Dunlap
+868,amazon,USA,TN,Franklin
+869,amazon,USA,TN,India
+870,amazon,USA,TN,Jackson
+871,amazon,USA,TN,Johnson City
+872,amazon,USA,TN,Knoxville
+873,amazon,USA,TN,Lebanon
+874,amazon,USA,TN,Memphis
+875,amazon,USA,TN,Murfreesboro
+876,amazon,USA,TN,Nashville
+877,amazon,USA,TN,Soddy-Daisy
+878,amazon,USA,TN,Winchester
+879,amazon,USA,TX,Allen
+880,amazon,USA,TX,Arlington
+881,amazon,USA,TX,Austin
+882,amazon,USA,TX,Back
+883,amazon,USA,TX,Brookshire
+884,amazon,USA,TX,Carrollton
+885,amazon,USA,TX,Coppell
+886,amazon,USA,TX,Curl Tex Colonia
+887,amazon,USA,TX,Cypress
+888,amazon,USA,TX,Dallas
+889,amazon,USA,TX,Denton
+890,amazon,USA,TX,Earth
+891,amazon,USA,TX,El Paso
+892,amazon,USA,TX,Fairview
+893,amazon,USA,TX,Farmers Branch
+894,amazon,USA,TX,Fort Worth
+895,amazon,USA,TX,Garland
+896,amazon,USA,TX,Gatesville
+897,amazon,USA,TX,Germany
+898,amazon,USA,TX,Grand Prairie
+899,amazon,USA,TX,Grapevine
+900,amazon,USA,TX,Grimes
+901,amazon,USA,TX,Haslet
+902,amazon,USA,TX,Houston
+903,amazon,USA,TX,Humble
+904,amazon,USA,TX,Hutchins
+905,amazon,USA,TX,India
+906,amazon,USA,TX,Irving
+907,amazon,USA,TX,Keller
+908,amazon,USA,TX,Lake Dallas
+909,amazon,USA,TX,Lancaster
+910,amazon,USA,TX,Louise
+911,amazon,USA,TX,Lubbock
+912,amazon,USA,TX,McKinney
+913,amazon,USA,TX,North Houston
+914,amazon,USA,TX,Pflugerville
+915,amazon,USA,TX,Plano
+916,amazon,USA,TX,San Antonio
+917,amazon,USA,TX,San Marcos
+918,amazon,USA,TX,Schertz
+919,amazon,USA,UT,Hill AFB
+920,amazon,USA,UT,Salt Lake City
+921,amazon,USA,UT,West Valley City
+922,amazon,USA,VA,Alexandria
+923,amazon,USA,VA,Arlington
+924,amazon,USA,VA,Ashburn
+925,amazon,USA,VA,Ashland
+926,amazon,USA,VA,Ballston
+927,amazon,USA,VA,Centreville
+928,amazon,USA,VA,Chantilly
+929,amazon,USA,VA,Charlotte C H
+930,amazon,USA,VA,Chesapeake
+931,amazon,USA,VA,Chester
+932,amazon,USA,VA,Chesterfield
+933,amazon,USA,VA,Clearbrook
+934,amazon,USA,VA,Clear Brook
+935,amazon,USA,VA,Dinwiddie
+936,amazon,USA,VA,Dulles
+937,amazon,USA,VA,Falls Church
+938,amazon,USA,VA,Fredericksburg
+939,amazon,USA,VA,Glen Allen
+940,amazon,USA,VA,Henrico
+941,amazon,USA,VA,Herndon
+942,amazon,USA,VA,Hopewell
+943,amazon,USA,VA,Manassas
+944,amazon,USA,VA,Manassas Park
+945,amazon,USA,VA,Norfolk
+946,amazon,USA,VA,North Chesterfield
+947,amazon,USA,VA,Petersburg
+948,amazon,USA,VA,Potomac Falls
+949,amazon,USA,VA,Reston
+950,amazon,USA,VA,Richmond
+951,amazon,USA,VA,Springfield
+952,amazon,USA,VA,Sterling
+953,amazon,USA,VA,Suffolk
+954,amazon,USA,VA,Virginia Beach
+955,amazon,USA,VA,Warrenton
+956,amazon,USA,VA,Williamsburg
+957,amazon,USA,VA,Winchester
+958,amazon,USA,WA,Arlington
+959,amazon,USA,WA,Auburn
+960,amazon,USA,WA,Bainbridge Island
+961,amazon,USA,WA,Bellevue
+962,amazon,USA,WA,Bothell
+963,amazon,USA,WA,Bow
+964,amazon,USA,WA,Brier
+965,amazon,USA,WA,DuPont
+966,amazon,USA,WA,Duvall
+967,amazon,USA,WA,Edmonds
+968,amazon,USA,WA,Everett
+969,amazon,USA,WA,Gig Harbor
+970,amazon,USA,WA,Kenmore
+971,amazon,USA,WA,Kennewick
+972,amazon,USA,WA,Kent
+973,amazon,USA,WA,Kirkland
+974,amazon,USA,WA,Lynnwood
+975,amazon,USA,WA,Mill Creek
+976,amazon,USA,WA,Newcastle
+977,amazon,USA,WA,Normandy Park
+978,amazon,USA,WA,Olympia
+979,amazon,USA,WA,Pasco
+980,amazon,USA,WA,Port Of Kennewick
+981,amazon,USA,WA,Port Orchard
+982,amazon,USA,WA,Puyallup
+983,amazon,USA,WA,Redmond
+984,amazon,USA,WA,Renton
+985,amazon,USA,WA,Sammamish
+986,amazon,USA,WA,SeaTac
+987,amazon,USA,WA,Seattle
+988,amazon,USA,WA,Seattle Heights
+989,amazon,USA,WA,Shoreline
+990,amazon,USA,WA,South Seattle
+991,amazon,USA,WA,Spokane
+992,amazon,USA,WA,Sumner
+993,amazon,USA,WA,Tacoma
+994,amazon,USA,WA,Vancouver
+995,amazon,USA,WA,West Seattle
+996,amazon,USA,WA,Woodinville
+997,amazon,USA,WI,Green Bay
+998,amazon,USA,WI,Hudson
+999,amazon,USA,WI,Kenosha
+1000,amazon,USA,WI,Madison
+1001,amazon,USA,WI,Milwaukee
+1002,amazon,USA,WI,Pleasant Prairie
+1003,amazon,USA,WI,Racine
+1004,amazon,USA,WI,South Kenosha
+1005,amazon,USA,WI,Sturtevant
+1006,amazon,USA,WI,Sussex
+1007,amazon,USA,WI,West Allis
+1008,amazon,USA,WI,Whitewater
+1009,amazon,USA,WV,Charleston
+1010,amazon,USA,WV,Huntington
+1011,amazon,USA,WV,Kent
+1012,amazon,Venezuela,Capital District,Caracas
+1013,amazon,Yemen,NULL,Al Ma‘rfuţ
+1014,apple,Afghanistan,NULL,Kabul
+1015,apple,Australia,Victoria,Cheltenham
+1016,apple,Australia,Western Australia,Perth
+1017,apple,Australia,NULL,Adelaide
+1018,apple,Australia,NULL,Bondi
+1019,apple,Australia,NULL,Brisbane
+1020,apple,Australia,NULL,Castle Hill
+1021,apple,Australia,NULL,Chermside
+1022,apple,Australia,NULL,Doncaster
+1023,apple,Australia,NULL,Garden City
+1024,apple,Australia,NULL,Gold Coast
+1025,apple,Australia,NULL,Melbourne
+1026,apple,Australia,NULL,Roma
+1027,apple,Australia,NULL,Rye
+1028,apple,Australia,NULL,South Melbourne
+1029,apple,Australia,NULL,Sunshine
+1030,apple,Australia,NULL,Sydney
+1031,apple,Bahrain,NULL,Manama
+1032,apple,Bangladesh,NULL,Dhaka
+1033,apple,Belgium,NULL,Brussels
+1034,apple,Brazil,São Paulo,Brasil
+1035,apple,Brazil,São Paulo,São Paulo
+1036,apple,Canada,AB,Calgary
+1037,apple,Canada,AB,Edmonton
+1038,apple,Canada,BC,Burnaby
+1039,apple,Canada,BC,Richmond
+1040,apple,Canada,BC,Surrey
+1041,apple,Canada,BC,Vancouver
+1042,apple,Canada,MB,Winnipeg
+1043,apple,Canada,NB,Moncton
+1044,apple,Canada,NS,Halifax
+1045,apple,Canada,ON,Burlington
+1046,apple,Canada,ON,Etobicoke
+1047,apple,Canada,ON,London
+1048,apple,Canada,ON,Maple
+1049,apple,Canada,ON,Midtown Toronto
+1050,apple,Canada,ON,Mississauga
+1051,apple,Canada,ON,Niagara Falls
+1052,apple,Canada,ON,North Toronto
+1053,apple,Canada,ON,Ottawa
+1054,apple,Canada,ON,Peterborough
+1055,apple,Canada,ON,Toronto
+1056,apple,Canada,ON,Vaughan
+1057,apple,Canada,ON,Waterloo
+1058,apple,Canada,ON,Windsor
+1059,apple,Canada,PE,Charlottetown
+1060,apple,Canada,QC,Brossard
+1061,apple,Canada,QC,La Prairie
+1062,apple,Canada,QC,Laval
+1063,apple,Canada,QC,Longueuil
+1064,apple,Canada,QC,Montreal
+1065,apple,Canada,QC,Montréal-Ouest
+1066,apple,Canada,QC,Pointe-Claire
+1067,apple,Canada,QC,Quebec
+1068,apple,Canada,QC,Rimouski
+1069,apple,Canada,SK,Saskatoon
+1070,apple,Chile,NULL,Cupo
+1071,apple,Chile,NULL,Santiago
+1072,apple,Chile,NULL,Victoria
+1073,apple,China,Beijing,Beijing
+1074,apple,China,Beijing,Tongzhou
+1075,apple,China,Chongqing,Chongqing
+1076,apple,China,Guangdong,Shenzhen
+1077,apple,China,Jiangsu,Nanjing
+1078,apple,China,Shanghai,Shanghai
+1079,apple,China,Sichuan,Chengdu
+1080,apple,China,Zhejiang,Wenzhou
+1081,apple,Colombia,Bogota,Bogotá
+1082,apple,Colombia,Santander,California
+1083,apple,Cote d'Ivoire,NULL,Abidjan
+1084,apple,Croatia,NULL,Zagreb
+1085,apple,Denmark,NULL,Copenhagen
+1086,apple,Egypt,NULL,Cairo
+1087,apple,Egypt,NULL,Idkū
+1088,apple,Engla,South East England,Berkshire
+1089,apple,Finland,Southern Finland,Helsinki
+1090,apple,Finland,NULL,Tampere
+1091,apple,France,Aquitaine,Bordeaux
+1092,apple,France,Ile-de-France,Seine-et-Marne
+1093,apple,France,NULL,Aix-en-Provence
+1094,apple,France,NULL,Lyon
+1095,apple,France,NULL,Nice
+1096,apple,France,NULL,Paris
+1097,apple,France,NULL,Rosny-sous-Bois
+1098,apple,Germany,Bayern,Augsburg
+1099,apple,Germany,Bayern,Munich
+1100,apple,Germany,Nordrhein-Westfalen,Oberhausen
+1101,apple,Germany,NULL,Berlin
+1102,apple,Germany,NULL,Cologne
+1103,apple,Germany,NULL,Frankfurt am Main
+1104,apple,Germany,NULL,Hamburg
+1105,apple,Germany,NULL,Ismaning
+1106,apple,Greece,NULL,Athens
+1107,apple,Hong Kong,NULL,Hong Kong
+1108,apple,India,Maharashtra,Kolhapur
+1109,apple,India,Rajasthan,Jodhpur
+1110,apple,India,Uttar Pradesh,Gorakhpur
+1111,apple,India,NULL,Ahmedabad
+1112,apple,India,NULL,Bengaluru
+1113,apple,India,NULL,Chennai
+1114,apple,India,NULL,Hyderabad
+1115,apple,India,NULL,Karnal
+1116,apple,India,NULL,Kollam
+1117,apple,India,NULL,Lucknow
+1118,apple,India,NULL,Madurai North
+1119,apple,India,NULL,Mumbai
+1120,apple,India,NULL,Mysore
+1121,apple,India,NULL,New Delhi
+1122,apple,India,NULL,Noida
+1123,apple,Indonesia,NULL,Makassar
+1124,apple,Iran,Kermanshah,Kermānshāh
+1125,apple,Ireland,Co. Dublin,Dublin
+1126,apple,Ireland,Co. Limerick,Limerick
+1127,apple,Ireland,NULL,Bandon
+1128,apple,Ireland,NULL,Carrigaline
+1129,apple,Ireland,NULL,Cork
+1130,apple,Ireland,NULL,Galway
+1131,apple,Ireland,NULL,Kilkenny
+1132,apple,Ireland,NULL,Knocknaheeny
+1133,apple,Ireland,NULL,Raheny
+1134,apple,Ireland,NULL,Waterford
+1135,apple,Israel,NULL,Herzliya
+1136,apple,Israel,NULL,Tel Aviv-Yafo
+1137,apple,Italy,NULL,Milan
+1138,apple,Italy,NULL,Milano
+1139,apple,Italy,NULL,Rome
+1140,apple,Italy,NULL,Turin
+1141,apple,Japan,NULL,Kitakyūshū
+1142,apple,Japan,NULL,Tokyo
+1143,apple,Libya,NULL,Tripoli
+1144,apple,Luxembourg,NULL,Luxembourg
+1145,apple,Malaysia,NULL,Kuala Lumpur
+1146,apple,Malaysia,NULL,Pengerang
+1147,apple,Maldives,NULL,Male
+1148,apple,Mexico,Distrito Federal,Mexico
+1149,apple,Mexico,NULL,Mexico City
+1150,apple,Morocco,NULL,Casablanca
+1151,apple,NaC,NaC,NaC
+1152,apple,Netherlands,NULL,Amsterdam
+1153,apple,Netherlands,NULL,Deventer
+1154,apple,Netherlands,NULL,Haarlem
+1155,apple,Netherlands,NULL,The Hague
+1156,apple,Nigeria,Yobe,Nguru
+1157,apple,Nigeria,NULL,Aha
+1158,apple,Nigeria,NULL,Lagos
+1159,apple,Pakistan,Islamabad,Islamabad
+1160,apple,Pakistan,NULL,Lahore
+1161,apple,Philippines,Manila,Manila
+1162,apple,Philippines,NULL,Davao
+1163,apple,Poland,NULL,Warsaw
+1164,apple,Portugal,NULL,Lisbon
+1165,apple,Russia,NULL,Moscow
+1166,apple,Saudi Arabia,NULL,Dammam
+1167,apple,Saudi Arabia,NULL,Riyadh
+1168,apple,Singapore,Central,Bukit Merah
+1169,apple,Singapore,Central,Novena
+1170,apple,Singapore,North-East,Ang Mo Kio
+1171,apple,Singapore,NULL,Singapore
+1172,apple,South Africa,NULL,Johannesburg
+1173,apple,South Africa,NULL,Milwa
+1174,apple,South Africa,NULL,New England
+1175,apple,South Korea,NULL,Daegu
+1176,apple,Spain,NULL,Barcelona
+1177,apple,Spain,NULL,Madrid
+1178,apple,Spain,NULL,Marbella
+1179,apple,Spain,NULL,Zaragoza
+1180,apple,Sweden,Stockholm,Stockholm
+1181,apple,Switzerland,NULL,Geneva
+1182,apple,Switzerland,NULL,Wallisellen
+1183,apple,Switzerland,NULL,Zürich
+1184,apple,Taiwan,NULL,Taipei
+1185,apple,Thailand,NULL,Bangkok
+1186,apple,Turkey,NULL,Aha
+1187,apple,Turkey,NULL,Arifiye
+1188,apple,Turkey,NULL,Istanbul
+1189,apple,Uganda,NULL,Kireka
+1190,apple,UK,England,Basingstoke
+1191,apple,UK,England,Birmingham
+1192,apple,UK,England,Brighton
+1193,apple,UK,England,Bristol
+1194,apple,UK,England,Bromley
+1195,apple,UK,England,Covent Garden
+1196,apple,UK,England,Dartford
+1197,apple,UK,England,Eastbourne
+1198,apple,UK,England,East of England
+1199,apple,UK,England,Exeter
+1200,apple,UK,England,Gateshead
+1201,apple,UK,England,Gillingham
+1202,apple,UK,England,Grays
+1203,apple,UK,England,Greenhithe
+1204,apple,UK,England,Leeds
+1205,apple,UK,England,Leicester
+1206,apple,UK,England,Liverpool
+1207,apple,UK,England,London
+1208,apple,UK,England,Manchester
+1209,apple,UK,England,Manchester City Centre
+1210,apple,UK,England,Milton Keynes
+1211,apple,UK,England,Newcastle upon Tyne
+1212,apple,UK,England,Norwich
+1213,apple,UK,England,Reading
+1214,apple,UK,England,Sheffield
+1215,apple,UK,England,Shepherds Bush
+1216,apple,UK,England,Solihull
+1217,apple,UK,England,Southampton
+1218,apple,UK,England,Southend-on-Sea
+1219,apple,UK,England,Uxbridge
+1220,apple,UK,England,Wakefield
+1221,apple,UK,England,Woking
+1222,apple,UK,Northern Ireland,Belfast
+1223,apple,UK,Northern Ireland,Omagh
+1224,apple,UK,Scotland,Aberdeen
+1225,apple,UK,Scotland,Edinburgh
+1226,apple,UK,Scotland,Glasgow
+1227,apple,UK,Wales,Cardiff
+1228,apple,United Arab Emirates,Abu Dhabi,Abu Dhabi
+1229,apple,United Arab Emirates,NULL,Dubai
+1230,apple,USA,AK,Anchorage
+1231,apple,USA,AK,Anchor Point
+1232,apple,USA,AL,Ashford
+1233,apple,USA,AL,Birmingham
+1234,apple,USA,AL,Boaz
+1235,apple,USA,AL,Huntsville
+1236,apple,USA,AL,Madison
+1237,apple,USA,AL,Mobile
+1238,apple,USA,AL,Tuscaloosa
+1239,apple,USA,AR,Conway
+1240,apple,USA,AR,Fayetteville
+1241,apple,USA,AR,Jonesboro
+1242,apple,USA,AR,Little Rock
+1243,apple,USA,AZ,Chandler
+1244,apple,USA,AZ,El Mirage
+1245,apple,USA,AZ,Gilbert
+1246,apple,USA,AZ,Glendale
+1247,apple,USA,AZ,Mesa
+1248,apple,USA,AZ,Oro Valley
+1249,apple,USA,AZ,Peoria
+1250,apple,USA,AZ,Phoenix
+1251,apple,USA,AZ,Scottsdale
+1252,apple,USA,AZ,Surprise
+1253,apple,USA,AZ,Tempe
+1254,apple,USA,AZ,Tucson
+1255,apple,USA,CA,Anaheim
+1256,apple,USA,CA,Apple Valley
+1257,apple,USA,CA,Artesia
+1258,apple,USA,CA,Atherton
+1259,apple,USA,CA,Bakersfield
+1260,apple,USA,CA,Baldwin Park
+1261,apple,USA,CA,Berkeley
+1262,apple,USA,CA,Beverly Hills
+1263,apple,USA,CA,Brea
+1264,apple,USA,CA,Burlingame
+1265,apple,USA,CA,Calif City
+1266,apple,USA,CA,Campbell
+1267,apple,USA,CA,Canoga Park
+1268,apple,USA,CA,Canyon Country
+1269,apple,USA,CA,Century City
+1270,apple,USA,CA,Cerritos
+1271,apple,USA,CA,Chino Hills
+1272,apple,USA,CA,Chula Vista
+1273,apple,USA,CA,Corte Madera
+1274,apple,USA,CA,Costa Mesa
+1275,apple,USA,CA,Culver City
+1276,apple,USA,CA,Cupertino
+1277,apple,USA,CA,Danville
+1278,apple,USA,CA,East Palo Alto
+1279,apple,USA,CA,Elk Grove
+1280,apple,USA,CA,El Sobrante
+1281,apple,USA,CA,Emeryville
+1282,apple,USA,CA,Encinitas
+1283,apple,USA,CA,Escondido
+1284,apple,USA,CA,Foster City
+1285,apple,USA,CA,Fremont
+1286,apple,USA,CA,Fresno
+1287,apple,USA,CA,Fullerton
+1288,apple,USA,CA,Glendale
+1289,apple,USA,CA,Hayward
+1290,apple,USA,CA,Hermosa Beach
+1291,apple,USA,CA,Hollywood
+1292,apple,USA,CA,Irvine
+1293,apple,USA,CA,Laguna Hills
+1294,apple,USA,CA,La Jolla
+1295,apple,USA,CA,Lake Forest
+1296,apple,USA,CA,Lincoln
+1297,apple,USA,CA,Livermore
+1298,apple,USA,CA,Long Beach
+1299,apple,USA,CA,Los Angeles
+1300,apple,USA,CA,Los Gatos
+1301,apple,USA,CA,Manhattan Beach
+1302,apple,USA,CA,Menlo Park
+1303,apple,USA,CA,Milpitas
+1304,apple,USA,CA,Mission Viejo
+1305,apple,USA,CA,Modesto
+1306,apple,USA,CA,Montebello
+1307,apple,USA,CA,Monterey
+1308,apple,USA,CA,Morgan Hill
+1309,apple,USA,CA,Mountain View
+1310,apple,USA,CA,Murrieta
+1311,apple,USA,CA,Newark
+1312,apple,USA,CA,Newport Beach
+1313,apple,USA,CA,Northridge
+1314,apple,USA,CA,North Sacramento
+1315,apple,USA,CA,Oakland
+1316,apple,USA,CA,Ontario
+1317,apple,USA,CA,Orange
+1318,apple,USA,CA,Palm Desert
+1319,apple,USA,CA,Palm Springs
+1320,apple,USA,CA,Palo Alto
+1321,apple,USA,CA,Paramount
+1322,apple,USA,CA,Pasadena
+1323,apple,USA,CA,Pleasanton
+1324,apple,USA,CA,Rancho Cordova
+1325,apple,USA,CA,Rancho Cucamonga
+1326,apple,USA,CA,Redding
+1327,apple,USA,CA,Redwood City
+1328,apple,USA,CA,Reedley
+1329,apple,USA,CA,Rialto
+1330,apple,USA,CA,Riverside
+1331,apple,USA,CA,Rohnert Park
+1332,apple,USA,CA,Roseville
+1333,apple,USA,CA,Sacramento
+1334,apple,USA,CA,San Bernardino
+1335,apple,USA,CA,San Bruno
+1336,apple,USA,CA,San Carlos
+1337,apple,USA,CA,San Diego
+1338,apple,USA,CA,San Francisco
+1339,apple,USA,CA,San Jose
+1340,apple,USA,CA,San Luis Obispo
+1341,apple,USA,CA,San Mateo
+1342,apple,USA,CA,San Pedro
+1343,apple,USA,CA,Santa Ana
+1344,apple,USA,CA,Santa Barbara
+1345,apple,USA,CA,Santa Clara
+1346,apple,USA,CA,Santa Clarita
+1347,apple,USA,CA,Santa Cruz
+1348,apple,USA,CA,Santa Monica
+1349,apple,USA,CA,Santa Rosa
+1350,apple,USA,CA,Sherman Oaks
+1351,apple,USA,CA,Simi Valley
+1352,apple,USA,CA,South San Francisco
+1353,apple,USA,CA,South San Jose Hills
+1354,apple,USA,CA,Stanford
+1355,apple,USA,CA,Stockton
+1356,apple,USA,CA,Stonestown
+1357,apple,USA,CA,Sunnyvale
+1358,apple,USA,CA,Temecula
+1359,apple,USA,CA,Thousand Oaks
+1360,apple,USA,CA,Topanga
+1361,apple,USA,CA,Torrance
+1362,apple,USA,CA,Union City
+1363,apple,USA,CA,Valencia
+1364,apple,USA,CA,Venice
+1365,apple,USA,CA,Visalia
+1366,apple,USA,CA,Walnut
+1367,apple,USA,CA,Walnut Creek
+1368,apple,USA,CA,West Hollywood
+1369,apple,USA,CA,Willow Glen
+1370,apple,USA,CA,Woodland Hills
+1371,apple,USA,CO,Aurora
+1372,apple,USA,CO,Boulder
+1373,apple,USA,CO,Broomfield
+1374,apple,USA,CO,Colorado Springs
+1375,apple,USA,CO,Denver
+1376,apple,USA,CO,Fort Collins
+1377,apple,USA,CO,Grand Lake
+1378,apple,USA,CO,Lakewood
+1379,apple,USA,CO,Littleton
+1380,apple,USA,CO,Lone Tree
+1381,apple,USA,CO,Longmont
+1382,apple,USA,CO,Thornton
+1383,apple,USA,CO,Westminster
+1384,apple,USA,CT,Bridgeport
+1385,apple,USA,CT,Danbury
+1386,apple,USA,CT,Fairfield
+1387,apple,USA,CT,Farmington
+1388,apple,USA,CT,Greenwich
+1389,apple,USA,CT,Hartford
+1390,apple,USA,CT,Manchester
+1391,apple,USA,CT,New Haven
+1392,apple,USA,CT,North Westchester
+1393,apple,USA,CT,Norwalk
+1394,apple,USA,CT,Shelton
+1395,apple,USA,CT,Stamford
+1396,apple,USA,CT,Trumbull
+1397,apple,USA,CT,West Hartford
+1398,apple,USA,CT,Windsor
+1399,apple,USA,DC,Washington
+1400,apple,USA,DE,Christiana
+1401,apple,USA,DE,Israel Haul
+1402,apple,USA,DE,Newark
+1403,apple,USA,DE,Wilmington
+1404,apple,USA,FL,Altamonte Springs
+1405,apple,USA,FL,Auburndale
+1406,apple,USA,FL,Aventura
+1407,apple,USA,FL,Boca Raton
+1408,apple,USA,FL,Bradenton
+1409,apple,USA,FL,Brandon
+1410,apple,USA,FL,Broward
+1411,apple,USA,FL,Cape Canaveral
+1412,apple,USA,FL,Cape Coral
+1413,apple,USA,FL,Casselberry
+1414,apple,USA,FL,Clearwater
+1415,apple,USA,FL,Cocoa
+1416,apple,USA,FL,Cocoa Beach
+1417,apple,USA,FL,Coral Gables
+1418,apple,USA,FL,Daytona Beach
+1419,apple,USA,FL,Delray Beach
+1420,apple,USA,FL,Estero
+1421,apple,USA,FL,Fort Lauderdale
+1422,apple,USA,FL,Fort Myers
+1423,apple,USA,FL,Gainesville
+1424,apple,USA,FL,Jacksonville
+1425,apple,USA,FL,Key West
+1426,apple,USA,FL,Lawtey
+1427,apple,USA,FL,Melbourne
+1428,apple,USA,FL,Miami
+1429,apple,USA,FL,Miami Beach
+1430,apple,USA,FL,Miami Gardens
+1431,apple,USA,FL,Miami Springs
+1432,apple,USA,FL,Mid Florida
+1433,apple,USA,FL,Milton
+1434,apple,USA,FL,Miramar
+1435,apple,USA,FL,Naples
+1436,apple,USA,FL,Ocala
+1437,apple,USA,FL,Orlando
+1438,apple,USA,FL,Palm Beach Gardens
+1439,apple,USA,FL,Panama City
+1440,apple,USA,FL,Pembroke Pines
+1441,apple,USA,FL,Pensacola
+1442,apple,USA,FL,Plantation
+1443,apple,USA,FL,Saint Cloud
+1444,apple,USA,FL,Saint Petersburg
+1445,apple,USA,FL,South Florida
+1446,apple,USA,FL,Sunrise
+1447,apple,USA,FL,Tallahassee
+1448,apple,USA,FL,Tampa
+1449,apple,USA,FL,Titusville
+1450,apple,USA,FL,Wellington
+1451,apple,USA,FL,West Palm Beach
+1452,apple,USA,GA,Alpharetta
+1453,apple,USA,GA,Athens
+1454,apple,USA,GA,Atlanta
+1455,apple,USA,GA,Augusta
+1456,apple,USA,GA,Buford
+1457,apple,USA,GA,Columbus
+1458,apple,USA,GA,Cork
+1459,apple,USA,GA,Dallas
+1460,apple,USA,GA,Dalton
+1461,apple,USA,GA,Gainesville
+1462,apple,USA,GA,Hiram
+1463,apple,USA,GA,Kennesaw
+1464,apple,USA,GA,Mableton
+1465,apple,USA,GA,Macon
+1466,apple,USA,GA,Marietta
+1467,apple,USA,GA,North Atlanta
+1468,apple,USA,GA,Richmond Hill
+1469,apple,USA,GA,Snellville
+1470,apple,USA,GA,Tyrone
+1471,apple,USA,HI,Honolulu
+1472,apple,USA,HI,Kahala
+1473,apple,USA,HI,Waikïkï
+1474,apple,USA,IA,Des Moines
+1475,apple,USA,IA,West Des Moines
+1476,apple,USA,ID,Mountain Home
+1477,apple,USA,ID,Post Falls
+1478,apple,USA,ID,Rexburg
+1479,apple,USA,IL,Berwyn
+1480,apple,USA,IL,Carbondale
+1481,apple,USA,IL,Chicago
+1482,apple,USA,IL,Deerfield
+1483,apple,USA,IL,Deer Park
+1484,apple,USA,IL,Elmhurst
+1485,apple,USA,IL,Lemont
+1486,apple,USA,IL,Naperville
+1487,apple,USA,IL,Northbrook
+1488,apple,USA,IL,Oak Brook
+1489,apple,USA,IL,Oak Brook Mall Branch
+1490,apple,USA,IL,Oakbrook Terrace
+1491,apple,USA,IL,Oak Park
+1492,apple,USA,IL,Orland Park
+1493,apple,USA,IL,Riverside
+1494,apple,USA,IL,Rockford
+1495,apple,USA,IL,Roselle
+1496,apple,USA,IL,Schaumburg
+1497,apple,USA,IL,Skokie
+1498,apple,USA,IL,Willowbrook
+1499,apple,USA,IN,Bloomington
+1500,apple,USA,IN,Columbia City
+1501,apple,USA,IN,Daleville
+1502,apple,USA,IN,Fishers
+1503,apple,USA,IN,Indianapolis
+1504,apple,USA,IN,Jeffersonville
+1505,apple,USA,IN,Mishawaka
+1506,apple,USA,IN,Noblesville
+1507,apple,USA,IN,South Bend
+1508,apple,USA,KS,Kansas City
+1509,apple,USA,KS,Leawood
+1510,apple,USA,KS,Overland Park
+1511,apple,USA,KS,Wichita
+1512,apple,USA,KY,Glasgow
+1513,apple,USA,KY,Lexington
+1514,apple,USA,KY,Lexington-Fayette
+1515,apple,USA,KY,Louisville
+1516,apple,USA,LA,Baton Rouge
+1517,apple,USA,LA,Lafayette
+1518,apple,USA,LA,Metairie
+1519,apple,USA,LA,New Orleans
+1520,apple,USA,LA,Shreveport
+1521,apple,USA,MA,Avon
+1522,apple,USA,MA,Bedford
+1523,apple,USA,MA,Beverly
+1524,apple,USA,MA,Boston
+1525,apple,USA,MA,Braintree
+1526,apple,USA,MA,Brookline
+1527,apple,USA,MA,Burlington
+1528,apple,USA,MA,Cambridge
+1529,apple,USA,MA,Chestnut Hill
+1530,apple,USA,MA,Dedham
+1531,apple,USA,MA,Duxbury
+1532,apple,USA,MA,Hingham
+1533,apple,USA,MA,Holyoke
+1534,apple,USA,MA,Mansfield
+1535,apple,USA,MA,Marlborough
+1536,apple,USA,MA,Medford
+1537,apple,USA,MA,Natick
+1538,apple,USA,MA,Newbury
+1539,apple,USA,MA,Newton
+1540,apple,USA,MA,North Dartmouth
+1541,apple,USA,MA,Peabody
+1542,apple,USA,MA,Sharon
+1543,apple,USA,MA,Somerville
+1544,apple,USA,MA,Springfield
+1545,apple,USA,MA,Townsend
+1546,apple,USA,MA,Waltham
+1547,apple,USA,MD,Annapolis
+1548,apple,USA,MD,Baltimore
+1549,apple,USA,MD,Bethesda
+1550,apple,USA,MD,California
+1551,apple,USA,MD,Columbia
+1552,apple,USA,MD,Elkridge
+1553,apple,USA,MD,Fulton
+1554,apple,USA,MD,Germantown
+1555,apple,USA,MD,Pikesville
+1556,apple,USA,MD,Potomac
+1557,apple,USA,MD,Rockville
+1558,apple,USA,MD,Silver Spring
+1559,apple,USA,MD,Towson
+1560,apple,USA,ME,Portland
+1561,apple,USA,ME,Scarborough
+1562,apple,USA,ME,South Portland
+1563,apple,USA,MI,Ann Arbor
+1564,apple,USA,MI,Clinton Township
+1565,apple,USA,MI,Detroit
+1566,apple,USA,MI,East Lansing
+1567,apple,USA,MI,Farmington Hills
+1568,apple,USA,MI,Flat Rock
+1569,apple,USA,MI,Grand Rapids
+1570,apple,USA,MI,Lansing
+1571,apple,USA,MI,Lincoln Park
+1572,apple,USA,MI,Madison Heights
+1573,apple,USA,MI,Novi
+1574,apple,USA,MI,Southfield
+1575,apple,USA,MI,Troy
+1576,apple,USA,MI,Tunis
+1577,apple,USA,MI,Westland
+1578,apple,USA,MN,Austin
+1579,apple,USA,MN,Bloomington
+1580,apple,USA,MN,Duluth
+1581,apple,USA,MN,Edina
+1582,apple,USA,MN,Lakeville
+1583,apple,USA,MN,Minneapolis
+1584,apple,USA,MN,Minnetonka
+1585,apple,USA,MN,Plymouth
+1586,apple,USA,MN,Rosemount
+1587,apple,USA,MN,Roseville
+1588,apple,USA,MN,Saint Cloud
+1589,apple,USA,MN,Saint Paul
+1590,apple,USA,MN,Townshipin Cities
+1591,apple,USA,MN,Woodbury
+1592,apple,USA,MO,Andrew
+1593,apple,USA,MO,Des Peres
+1594,apple,USA,MO,Grandview
+1595,apple,USA,MO,Independence
+1596,apple,USA,MO,Joplin
+1597,apple,USA,MO,Kansas City
+1598,apple,USA,MO,Lawson
+1599,apple,USA,MO,Saint Louis
+1600,apple,USA,MS,Hattiesburg
+1601,apple,USA,MS,Highpoint
+1602,apple,USA,MS,Jackson
+1603,apple,USA,MS,Ridgeland
+1604,apple,USA,NC,Asheville
+1605,apple,USA,NC,Cameron
+1606,apple,USA,NC,Cape Colony
+1607,apple,USA,NC,Cary
+1608,apple,USA,NC,Chapel Hill
+1609,apple,USA,NC,Charlotte
+1610,apple,USA,NC,Durham
+1611,apple,USA,NC,Fayetteville
+1612,apple,USA,NC,Garner
+1613,apple,USA,NC,Greensboro
+1614,apple,USA,NC,Greenville
+1615,apple,USA,NC,Jacksonville
+1616,apple,USA,NC,Maiden
+1617,apple,USA,NC,Raleigh
+1618,apple,USA,NC,Winston-Salem
+1619,apple,USA,ND,Bismarck
+1620,apple,USA,NE,Lincoln
+1621,apple,USA,NE,Omaha
+1622,apple,USA,NE,Sacramento
+1623,apple,USA,NH,Bedford
+1624,apple,USA,NH,Hanover
+1625,apple,USA,NH,Manchester
+1626,apple,USA,NH,Nashua
+1627,apple,USA,NH,New Portsmouth
+1628,apple,USA,NH,Salem
+1629,apple,USA,NH,Stratham
+1630,apple,USA,NJ,Atlantic City
+1631,apple,USA,NJ,Bridgewater
+1632,apple,USA,NJ,Carteret
+1633,apple,USA,NJ,Cherry Hill
+1634,apple,USA,NJ,Cresskill
+1635,apple,USA,NJ,East Freehold
+1636,apple,USA,NJ,Edison
+1637,apple,USA,NJ,Elizabeth
+1638,apple,USA,NJ,Elmwood Park
+1639,apple,USA,NJ,Fairview
+1640,apple,USA,NJ,Freehold
+1641,apple,USA,NJ,Glendora
+1642,apple,USA,NJ,Jackson
+1643,apple,USA,NJ,Jersey City
+1644,apple,USA,NJ,Lawrence
+1645,apple,USA,NJ,Lindenwold
+1646,apple,USA,NJ,Madison
+1647,apple,USA,NJ,Marlton
+1648,apple,USA,NJ,Menlo Park
+1649,apple,USA,NJ,Newark
+1650,apple,USA,NJ,New Brunswick
+1651,apple,USA,NJ,Northfield
+1652,apple,USA,NJ,Paramus
+1653,apple,USA,NJ,Paterson
+1654,apple,USA,NJ,Princeton
+1655,apple,USA,NJ,Riverside
+1656,apple,USA,NJ,Rockaway
+1657,apple,USA,NJ,Short Hills
+1658,apple,USA,NJ,South Brunswick Terrace
+1659,apple,USA,NJ,Totowa
+1660,apple,USA,NJ,Trenton
+1661,apple,USA,NJ,Voorhees
+1662,apple,USA,NJ,Wayne
+1663,apple,USA,NJ,West New York
+1664,apple,USA,NJ,Wharton
+1665,apple,USA,NJ,Woodbury
+1666,apple,USA,NJ,Woodcliff Lake
+1667,apple,USA,NM,Albuquerque
+1668,apple,USA,NM,Bernalillo
+1669,apple,USA,NM,Las Cruces
+1670,apple,USA,NV,Las Vegas
+1671,apple,USA,NV,Minden
+1672,apple,USA,NV,Reno
+1673,apple,USA,NV,Sparks
+1674,apple,USA,NY,Albany
+1675,apple,USA,NY,Baldwin
+1676,apple,USA,NY,Bellerose
+1677,apple,USA,NY,Binghamton
+1678,apple,USA,NY,Brentwood
+1679,apple,USA,NY,Bronx
+1680,apple,USA,NY,Brookhaven
+1681,apple,USA,NY,Brooklyn
+1682,apple,USA,NY,Buffalo
+1683,apple,USA,NY,Cheektowaga
+1684,apple,USA,NY,Elmhurst
+1685,apple,USA,NY,Fairport
+1686,apple,USA,NY,Garden City
+1687,apple,USA,NY,Hempstead
+1688,apple,USA,NY,Huntington
+1689,apple,USA,NY,Huntington Station
+1690,apple,USA,NY,Ithaca
+1691,apple,USA,NY,Lake Grove
+1692,apple,USA,NY,Long Beach
+1693,apple,USA,NY,Manhasset
+1694,apple,USA,NY,Massapequa Park
+1695,apple,USA,NY,Mastic
+1696,apple,USA,NY,Middletown
+1697,apple,USA,NY,Nanuet
+1698,apple,USA,NY,Nassau
+1699,apple,USA,NY,New York
+1700,apple,USA,NY,Northport
+1701,apple,USA,NY,Otsego
+1702,apple,USA,NY,Peekskill
+1703,apple,USA,NY,Rochester
+1704,apple,USA,NY,Rockland
+1705,apple,USA,NY,Roosevelt
+1706,apple,USA,NY,Smithtown
+1707,apple,USA,NY,Staten Island
+1708,apple,USA,NY,Syracuse
+1709,apple,USA,NY,Uniondale
+1710,apple,USA,NY,Victor
+1711,apple,USA,NY,West Nyack
+1712,apple,USA,NY,White Plains
+1713,apple,USA,NY,Woodside
+1714,apple,USA,NY,Yonkers
+1715,apple,USA,OH,Akron
+1716,apple,USA,OH,Ashtabula
+1717,apple,USA,OH,Athens
+1718,apple,USA,OH,Beachwood
+1719,apple,USA,OH,Beavercreek
+1720,apple,USA,OH,Cincinnati
+1721,apple,USA,OH,Cleveland
+1722,apple,USA,OH,Columbiana
+1723,apple,USA,OH,Columbus
+1724,apple,USA,OH,Dayton
+1725,apple,USA,OH,Elyria
+1726,apple,USA,OH,Fairlawn
+1727,apple,USA,OH,Glandorf
+1728,apple,USA,OH,Grove City
+1729,apple,USA,OH,Hartville
+1730,apple,USA,OH,Kettering
+1731,apple,USA,OH,Lyndhurst
+1732,apple,USA,OH,Medina
+1733,apple,USA,OH,Mentor
+1734,apple,USA,OH,North Canton
+1735,apple,USA,OH,Norwood
+1736,apple,USA,OH,Sheffield Lake
+1737,apple,USA,OH,Toledo
+1738,apple,USA,OH,Westlake
+1739,apple,USA,OH,Woodmere
+1740,apple,USA,OK,Bethany
+1741,apple,USA,OK,Mangum
+1742,apple,USA,OK,Nowhere
+1743,apple,USA,OK,Oklahoma City
+1744,apple,USA,OK,Shawnee
+1745,apple,USA,OK,Tulsa
+1746,apple,USA,OK,Yukon
+1747,apple,USA,OR,Beaverton
+1748,apple,USA,OR,Eugene
+1749,apple,USA,OR,Portland
+1750,apple,USA,OR,Remote
+1751,apple,USA,OR,Tigard
+1752,apple,USA,PA,Allentown
+1753,apple,USA,PA,Ardmore
+1754,apple,USA,PA,Bethlehem
+1755,apple,USA,PA,Carlisle
+1756,apple,USA,PA,Charleroi
+1757,apple,USA,PA,Drexel Hill
+1758,apple,USA,PA,Exeter
+1759,apple,USA,PA,King of Prussia
+1760,apple,USA,PA,Lancaster
+1761,apple,USA,PA,Latrobe
+1762,apple,USA,PA,Lehigh Valley
+1763,apple,USA,PA,Millersville
+1764,apple,USA,PA,Phila
+1765,apple,USA,PA,Philadelphia
+1766,apple,USA,PA,Pittsburgh
+1767,apple,USA,PA,Secane
+1768,apple,USA,PA,State College
+1769,apple,USA,PA,Whitehall
+1770,apple,USA,PA,Willow Grove
+1771,apple,USA,PA,Yardley
+1772,apple,USA,PR,Caguas
+1773,apple,USA,RI,Cranston
+1774,apple,USA,RI,Cumberland
+1775,apple,USA,RI,Kingston
+1776,apple,USA,RI,North Providence
+1777,apple,USA,RI,Providence
+1778,apple,USA,SC,Charleston
+1779,apple,USA,SC,Clemson
+1780,apple,USA,SC,Folly Beach
+1781,apple,USA,SC,Greenville
+1782,apple,USA,SC,Mount Pleasant
+1783,apple,USA,SC,Myrtle Beach
+1784,apple,USA,SC,North Charleston
+1785,apple,USA,SC,Privateer
+1786,apple,USA,SC,Simpsonville
+1787,apple,USA,SD,Aberdeen
+1788,apple,USA,TN,Chattanooga
+1789,apple,USA,TN,Cleveland
+1790,apple,USA,TN,Cool Springs
+1791,apple,USA,TN,Davidson
+1792,apple,USA,TN,Elizabethton
+1793,apple,USA,TN,Franklin
+1794,apple,USA,TN,Germantown
+1795,apple,USA,TN,Knoxville
+1796,apple,USA,TN,Madison
+1797,apple,USA,TN,Memphis
+1798,apple,USA,TN,Murfreesboro
+1799,apple,USA,TN,Nashville
+1800,apple,USA,TX,Addison
+1801,apple,USA,TX,Arlington
+1802,apple,USA,TX,Atlanta
+1803,apple,USA,TX,Austin
+1804,apple,USA,TX,Balch Springs
+1805,apple,USA,TX,Cedar Park
+1806,apple,USA,TX,College Station
+1807,apple,USA,TX,Dallas
+1808,apple,USA,TX,El Paso
+1809,apple,USA,TX,Fort Worth
+1810,apple,USA,TX,Friendswood
+1811,apple,USA,TX,Frisco
+1812,apple,USA,TX,Garland
+1813,apple,USA,TX,Houston
+1814,apple,USA,TX,Hurst
+1815,apple,USA,TX,Hutto
+1816,apple,USA,TX,Irving
+1817,apple,USA,TX,Longview
+1818,apple,USA,TX,Lubbock
+1819,apple,USA,TX,Luling
+1820,apple,USA,TX,Magnolia
+1821,apple,USA,TX,McAllen
+1822,apple,USA,TX,Pflugerville
+1823,apple,USA,TX,Plano
+1824,apple,USA,TX,Round Rock
+1825,apple,USA,TX,San Antonio
+1826,apple,USA,TX,San Marcos
+1827,apple,USA,TX,South Houston
+1828,apple,USA,TX,Southlake
+1829,apple,USA,TX,Spring
+1830,apple,USA,TX,Sugar Land
+1831,apple,USA,TX,Temple
+1832,apple,USA,TX,The Woodlands
+1833,apple,USA,TX,Trophy Club
+1834,apple,USA,UT,Bountiful
+1835,apple,USA,UT,Copperton
+1836,apple,USA,UT,Farmington
+1837,apple,USA,UT,Halls Fifth Avenue Condominium
+1838,apple,USA,UT,Layton
+1839,apple,USA,UT,Midvale
+1840,apple,USA,UT,Murray
+1841,apple,USA,UT,Provo
+1842,apple,USA,UT,Salt Lake City
+1843,apple,USA,UT,Taylorsville
+1844,apple,USA,UT,West Jordan
+1845,apple,USA,VA,Annandale
+1846,apple,USA,VA,Arlington
+1847,apple,USA,VA,Chesapeake
+1848,apple,USA,VA,Clarendon
+1849,apple,USA,VA,Dulles
+1850,apple,USA,VA,Fairfax
+1851,apple,USA,VA,Fair Oaks
+1852,apple,USA,VA,Falls Church
+1853,apple,USA,VA,Glen Allen
+1854,apple,USA,VA,Hampden Sydney
+1855,apple,USA,VA,Hampton
+1856,apple,USA,VA,Henrico
+1857,apple,USA,VA,Herndon
+1858,apple,USA,VA,Leesburg
+1859,apple,USA,VA,Lorton
+1860,apple,USA,VA,McLean
+1861,apple,USA,VA,Norfolk
+1862,apple,USA,VA,Portsmouth
+1863,apple,USA,VA,Quantico
+1864,apple,USA,VA,Reston
+1865,apple,USA,VA,Richmond
+1866,apple,USA,VA,Short Pump
+1867,apple,USA,VA,Tysons
+1868,apple,USA,VA,Virginia Beach
+1869,apple,USA,VA,Woodbridge
+1870,apple,USA,WA,Bellevue
+1871,apple,USA,WA,Edmonds
+1872,apple,USA,WA,Lynnwood
+1873,apple,USA,WA,Olympia
+1874,apple,USA,WA,Pasco
+1875,apple,USA,WA,Pullman
+1876,apple,USA,WA,Puyallup
+1877,apple,USA,WA,Sammamish
+1878,apple,USA,WA,Seattle
+1879,apple,USA,WA,Spokane
+1880,apple,USA,WA,Tacoma
+1881,apple,USA,WA,Tukwila
+1882,apple,USA,WI,Appleton
+1883,apple,USA,WI,Madison
+1884,apple,USA,WI,Milwaukee
+1885,apple,USA,WI,Wauwatosa
+1886,apple,USA,WI,Whitefish Bay
+1887,apple,USA,WV,Huntington
+1888,apple,USA,WV,Newark
+1889,apple,USA,WV,Wheeling
+1890,apple,Vanuatu,NULL,Sydney
+1891,apple,Venezuela,NULL,Coro
+1892,apple,Vietnam,NULL,Hanoi
+1893,apple,Vietnam,NULL,Ho Chi Minh City
+1894,facebook,Argentina,NULL,Buenos Aires
+1895,facebook,Australia,NULL,Brisbane
+1896,facebook,Australia,NULL,Melbourne
+1897,facebook,Australia,NULL,Sydney
+1898,facebook,Bangladesh,Sylhet,Ālipur
+1899,facebook,Bangladesh,NULL,Dhaka
+1900,facebook,Bangladesh,NULL,Khulna
+1901,facebook,Brazil,São Paulo,São Paulo
+1902,facebook,Cameroon,NULL,Douala
+1903,facebook,Canada,BC,Vancouver
+1904,facebook,Canada,ON,London
+1905,facebook,Canada,ON,Toronto
+1906,facebook,Denmark,NULL,Copenhagen
+1907,facebook,Dominica,NULL,Roseau
+1908,facebook,Egypt,NULL,Cairo
+1909,facebook,France,NULL,Paris
+1910,facebook,Germany,NULL,Hamburg
+1911,facebook,Hong Kong,NULL,Hong Kong
+1912,facebook,India,Haryana,Gurgaon
+1913,facebook,India,Maharashtra,Nagpur
+1914,facebook,India,NULL,Bengaluru
+1915,facebook,India,NULL,Chennai
+1916,facebook,India,NULL,Hyderabad
+1917,facebook,India,NULL,New Delhi
+1918,facebook,Indonesia,NULL,Makassar
+1919,facebook,Iran,Tehran,Tehran
+1920,facebook,Ireland,Co. Dublin,Dublin
+1921,facebook,Ireland,NULL,Cork
+1922,facebook,Israel,NULL,Tel Aviv-Yafo
+1923,facebook,Malaysia,NULL,Melaka
+1924,facebook,Mexico,NULL,Mexico City
+1925,facebook,Morocco,NULL,Casablanca
+1926,facebook,Netherlands,NULL,Amsterdam
+1927,facebook,Nigeria,Katsina,Katsina
+1928,facebook,Nigeria,NULL,Lagos
+1929,facebook,Pakistan,Islamabad,Islamabad
+1930,facebook,Pakistan,Punjab,Gojra
+1931,facebook,Philippines,Manila,Manila
+1932,facebook,Philippines,NULL,Bacolod City
+1933,facebook,Philippines,NULL,Cagayan de Oro
+1934,facebook,Philippines,NULL,Makati City
+1935,facebook,Qatar,NULL,Doha
+1936,facebook,Romania,NULL,Bucharest
+1937,facebook,Singapore,NULL,Singapore
+1938,facebook,South Africa,NULL,Mpkakathini
+1939,facebook,Spain,NULL,Barcelona
+1940,facebook,Spain,NULL,Madrid
+1941,facebook,Sri Lanka,NULL,Colombo
+1942,facebook,Tunisia,NULL,Jabinyānah
+1943,facebook,UK,England,London
+1944,facebook,UK,England,North West England
+1945,facebook,United Arab Emirates,NULL,Dubai
+1946,facebook,USA,AR,Bentonville
+1947,facebook,USA,AZ,Phoenix
+1948,facebook,USA,CA,Alameda
+1949,facebook,USA,CA,Daly City
+1950,facebook,USA,CA,Fremont
+1951,facebook,USA,CA,Hayward
+1952,facebook,USA,CA,Los Angeles
+1953,facebook,USA,CA,Martinez
+1954,facebook,USA,CA,Menlo Park
+1955,facebook,USA,CA,Mountain View
+1956,facebook,USA,CA,Oakland
+1957,facebook,USA,CA,Palmdale
+1958,facebook,USA,CA,Palo Alto
+1959,facebook,USA,CA,Pleasant Hill
+1960,facebook,USA,CA,Redwood City
+1961,facebook,USA,CA,San Carlos
+1962,facebook,USA,CA,San Francisco
+1963,facebook,USA,CA,San Jose
+1964,facebook,USA,CA,San Mateo
+1965,facebook,USA,CA,Santa Clara
+1966,facebook,USA,CA,Sunnyvale
+1967,facebook,USA,CA,Union City
+1968,facebook,USA,CA,Victorville
+1969,facebook,USA,CA,West Menlo Park
+1970,facebook,USA,DC,Washington
+1971,facebook,USA,FL,Miami
+1972,facebook,USA,FL,Orlando
+1973,facebook,USA,GA,Decatur
+1974,facebook,USA,IA,Altoona
+1975,facebook,USA,IL,Chicago
+1976,facebook,USA,KS,Kansas City
+1977,facebook,USA,MA,Boston
+1978,facebook,USA,MA,Cambridge
+1979,facebook,USA,MA,Carlisle
+1980,facebook,USA,MI,Detroit
+1981,facebook,USA,MO,Saint Louis
+1982,facebook,USA,MS,Jackson
+1983,facebook,USA,NC,Charlotte
+1984,facebook,USA,NC,Forest City
+1985,facebook,USA,NJ,Princeton
+1986,facebook,USA,NJ,Somerset
+1987,facebook,USA,NM,Los Lunas
+1988,facebook,USA,NY,New York
+1989,facebook,USA,OH,Columbus
+1990,facebook,USA,OH,Warrensville Heights
+1991,facebook,USA,OR,Prineville
+1992,facebook,USA,SC,Myrtle Beach
+1993,facebook,USA,TX,Austin
+1994,facebook,USA,TX,Fort Worth
+1995,facebook,USA,TX,Lewisville
+1996,facebook,USA,VA,Ashburn
+1997,facebook,USA,WA,Redmond
+1998,facebook,USA,WA,Seattle
+1999,facebook,USA,WA,South Seattle
+2000,google,Algeria,NULL,Algiers
+2001,google,Algeria,NULL,Tindouf
+2002,google,Argentina,NULL,Buenos Aires
+2003,google,Australia,NULL,Melbourne
+2004,google,Australia,NULL,Pyrmont
+2005,google,Australia,NULL,Sydney
+2006,google,Bangladesh,Chittagong,LakshmÄ«pur
+2007,google,Bangladesh,NULL,Chittagong
+2008,google,Bangladesh,NULL,Dhaka
+2009,google,Belgium,Brussels,Elsene
+2010,google,Belgium,Hainaut,Saint-Ghislain
+2011,google,Belgium,NULL,Anderlues
+2012,google,Brazil,Minas Gerais,Belo Horizonte
+2013,google,Brazil,São Paulo,Piracicaba
+2014,google,Brazil,São Paulo,São Paulo
+2015,google,Brazil,NULL,Curitiba
+2016,google,Bulgaria,NULL,Burgas
+2017,google,Bulgaria,NULL,Sofia
+2018,google,Burkina Faso,NULL,Ouagadougou
+2019,google,Canada,AB,Yellowstone
+2020,google,Canada,BC,Nanaimo
+2021,google,Canada,BC,Vancouver
+2022,google,Canada,ON,Kitchener
+2023,google,Canada,ON,London
+2024,google,Canada,ON,Ottawa
+2025,google,Canada,ON,Toronto
+2026,google,Canada,ON,Waterloo
+2027,google,Canada,QC,Montreal
+2028,google,Chile,NULL,Santiago
+2029,google,China,Beijing,Beijing
+2030,google,China,Beijing,Tongzhou
+2031,google,China,Guangdong,Shenzhen
+2032,google,China,Shanghai,Shanghai
+2033,google,Colombia,Bogota,Bogotá
+2034,google,Costa Rica,San Jose,San Francisco
+2035,google,Czech Republic,NULL,Prague
+2036,google,Democratic Republic of Congo,NULL,Londo
+2037,google,Dominican Republic,NULL,Jarabacoa
+2038,google,Egypt,NULL,Cairo
+2039,google,Egypt,NULL,Ţanţā
+2040,google,France,Aquitaine,Pau
+2041,google,France,Midi-Pyrenees,Montaïn
+2042,google,France,NULL,Any-Martin-Rieux
+2043,google,France,NULL,Basse-Goulaine
+2044,google,France,NULL,Champs-Sur-Marne
+2045,google,France,NULL,Germ
+2046,google,France,NULL,Liffol-le-Grand
+2047,google,France,NULL,Lille
+2048,google,France,NULL,Paris
+2049,google,Germany,Bayern,Munich
+2050,google,Germany,NULL,Berlin
+2051,google,Germany,NULL,Hamburg
+2052,google,Germany,NULL,Lübeck
+2053,google,Greece,NULL,Athens
+2054,google,Greece,NULL,Thessaloníki
+2055,google,Guyana,NULL,Georgetown
+2056,google,Hong Kong,NULL,Hong Kong
+2057,google,Hungary,NULL,Budapest
+2058,google,India,Haryana,Gurgaon
+2059,google,India,Karnataka,Indi
+2060,google,India,Kerala,Kozhikode
+2061,google,India,Maharashtra,Nagpur
+2062,google,India,Rajasthan,Jaipur
+2063,google,India,Telangana,Karimnagar
+2064,google,India,NULL,Ahmedabad
+2065,google,India,NULL,Alwarpet
+2066,google,India,NULL,Belapur
+2067,google,India,NULL,Bengaluru
+2068,google,India,NULL,Bhilwara
+2069,google,India,NULL,Bhubaneswar
+2070,google,India,NULL,Cachar
+2071,google,India,NULL,Chennai
+2072,google,India,NULL,Coimbatore
+2073,google,India,NULL,Dibrugarh
+2074,google,India,NULL,Dombivli
+2075,google,India,NULL,Greater Noida
+2076,google,India,NULL,Gurganwamustkil
+2077,google,India,NULL,Hyderabad
+2078,google,India,NULL,Indore
+2079,google,India,NULL,Joura
+2080,google,India,NULL,Karnal
+2081,google,India,NULL,Kochi
+2082,google,India,NULL,Kolkata
+2083,google,India,NULL,Lonavala
+2084,google,India,NULL,Lucknow
+2085,google,India,NULL,Mumbai
+2086,google,India,NULL,New Delhi
+2087,google,India,NULL,Noida
+2088,google,India,NULL,Pune
+2089,google,India,NULL,Pune City
+2090,google,India,NULL,Rae Bareli
+2091,google,India,NULL,Satara
+2092,google,India,NULL,Secunderabad
+2093,google,India,NULL,South West
+2094,google,India,NULL,Surat
+2095,google,India,NULL,Thiruvananthapuram
+2096,google,India,NULL,Thrissur
+2097,google,India,NULL,Varanasi
+2098,google,India,NULL,Visakhapatnam
+2099,google,India,NULL,Warangal
+2100,google,Indonesia,Central Java,Semarang
+2101,google,Indonesia,NULL,Banjarbaru
+2102,google,Indonesia,NULL,Jakarta
+2103,google,Iran,Tehran,Tehran
+2104,google,Iraq,NULL,Erbil
+2105,google,Ireland,Co. Dublin,Dublin
+2106,google,Ireland,NULL,Castleblayney
+2107,google,Israel,NULL,Binyamina
+2108,google,Israel,NULL,Tel Aviv-Yafo
+2109,google,Italy,NULL,Milan
+2110,google,Italy,NULL,Milano
+2111,google,Japan,Osaka,Sakai
+2112,google,Japan,NULL,Tokyo
+2113,google,Kenya,NULL,Mombasa
+2114,google,Kenya,NULL,Nairobi
+2115,google,Lebanon,NULL,Beirut
+2116,google,Malaysia,NULL,Kuala Lumpur
+2117,google,Mexico,Baja California,Tijuana
+2118,google,Mexico,Distrito Federal,Mexico
+2119,google,Mexico,Jalisco,Guadalajara
+2120,google,Mexico,NULL,Mexico City
+2121,google,NaC,NaC,NaC
+2122,google,Netherlands,NULL,Amsterdam
+2123,google,Nigeria,Kano,Paki
+2124,google,Nigeria,Lagos,Yaba
+2125,google,Nigeria,NULL,Germa
+2126,google,Pakistan,Azad Kashmir,Mīrpur
+2127,google,Pakistan,NULL,Karāchi
+2128,google,Pakistan,NULL,Lahore
+2129,google,Pakistan,NULL,Māri Indus
+2130,google,Pakistan,NULL,Peshāwar
+2131,google,Pakistan,NULL,Rāwalpindi
+2132,google,Philippines,Manila,Manila
+2133,google,Philippines,NULL,Taguig
+2134,google,Poland,NULL,Kraków
+2135,google,Poland,NULL,Warsaw
+2136,google,Poland,NULL,Wrocław
+2137,google,Qatar,NULL,Doha
+2138,google,Romania,NULL,Bucharest
+2139,google,Russia,NULL,Moscow
+2140,google,Russia,NULL,Saint Petersburg
+2141,google,Russia,NULL,Syktyvkar
+2142,google,Rwanda,Kigali,Kigali
+2143,google,Saudi Arabia,NULL,Abha
+2144,google,Saudi Arabia,NULL,Mecca
+2145,google,Saudi Arabia,NULL,Riyadh
+2146,google,Serbia,NULL,Priština
+2147,google,Singapore,NULL,Singapore
+2148,google,South Africa,NULL,All Saints
+2149,google,South Africa,NULL,België
+2150,google,South Africa,NULL,Durban
+2151,google,South Africa,NULL,East London
+2152,google,South Africa,NULL,Hamburg
+2153,google,South Korea,NULL,Seoul
+2154,google,South Korea,NULL,Uiwang
+2155,google,Spain,NULL,Madrid
+2156,google,Spain,NULL,Mar Menor
+2157,google,Sri Lanka,NULL,Colombo
+2158,google,Sweden,Stockholm,Stockholm
+2159,google,Switzerland,NULL,Zürich
+2160,google,Taiwan,NULL,Taichung
+2161,google,Taiwan,NULL,Taipei
+2162,google,Thailand,NULL,Bangkok
+2163,google,Thailand,NULL,Samut Prakan
+2164,google,Tunisia,NULL,Ben Arous
+2165,google,Turkey,NULL,Istanbul
+2166,google,UK,England,All Stretton
+2167,google,UK,England,Birmingham
+2168,google,UK,England,City of London
+2169,google,UK,England,Ealing
+2170,google,UK,England,Lingfield
+2171,google,UK,England,London
+2172,google,UK,England,Mayfair
+2173,google,UK,Northern Ireland,Belfast
+2174,google,UK,Scotland,Glasgow
+2175,google,UK,Wales,Mountain Ash
+2176,google,Ukraine,NULL,Lviv
+2177,google,United Arab Emirates,NULL,Dubai
+2178,google,USA,AR,Egypt
+2179,google,USA,AZ,Chandler
+2180,google,USA,AZ,Peach Pu
+2181,google,USA,AZ,Phoenix
+2182,google,USA,AZ,Tempe
+2183,google,USA,CA,Alameda
+2184,google,USA,CA,Belmont
+2185,google,USA,CA,Berkeley
+2186,google,USA,CA,Burbank
+2187,google,USA,CA,Calif City
+2188,google,USA,CA,Castro Valley
+2189,google,USA,CA,Concord
+2190,google,USA,CA,Cupertino
+2191,google,USA,CA,Daly City
+2192,google,USA,CA,Dublin
+2193,google,USA,CA,Foster City
+2194,google,USA,CA,Fremont
+2195,google,USA,CA,Greenbrae
+2196,google,USA,CA,Irvine
+2197,google,USA,CA,Los Angeles
+2198,google,USA,CA,Milpitas
+2199,google,USA,CA,Mountain View
+2200,google,USA,CA,Mountain View Acres
+2201,google,USA,CA,Oakland
+2202,google,USA,CA,Palo Alto
+2203,google,USA,CA,Pasadena
+2204,google,USA,CA,Pittsburg
+2205,google,USA,CA,Redwood City
+2206,google,USA,CA,Riverside
+2207,google,USA,CA,Sacramento
+2208,google,USA,CA,San Bernardino
+2209,google,USA,CA,San Bruno
+2210,google,USA,CA,San Carlos
+2211,google,USA,CA,San Diego
+2212,google,USA,CA,San Francisco
+2213,google,USA,CA,San Jose
+2214,google,USA,CA,San Mateo
+2215,google,USA,CA,San Ramon
+2216,google,USA,CA,Santa Clara
+2217,google,USA,CA,Santa Clarita
+2218,google,USA,CA,Santa Monica
+2219,google,USA,CA,Sausalito
+2220,google,USA,CA,South San Francisco
+2221,google,USA,CA,Sunnyvale
+2222,google,USA,CA,Venice
+2223,google,USA,CA,Walnut Creek
+2224,google,USA,CO,Boulder
+2225,google,USA,CO,Denver
+2226,google,USA,CO,Fort Collins
+2227,google,USA,CO,Thornton
+2228,google,USA,DC,Washington
+2229,google,USA,FL,Broward
+2230,google,USA,FL,Celebration
+2231,google,USA,FL,Daytona Beach
+2232,google,USA,FL,Melbourne
+2233,google,USA,FL,Miami
+2234,google,USA,FL,Switzerland
+2235,google,USA,FL,Tampa
+2236,google,USA,FL,West Palm Beach
+2237,google,USA,GA,Atlanta
+2238,google,USA,GA,Austell
+2239,google,USA,GA,Cleveland
+2240,google,USA,GA,Dallas
+2241,google,USA,GA,Douglas
+2242,google,USA,GA,Edith
+2243,google,USA,GA,Germany
+2244,google,USA,GA,Kennesaw
+2245,google,USA,HI,Kïhei
+2246,google,USA,IA,Council Bluffs
+2247,google,USA,IA,Iowa City
+2248,google,USA,IL,Chicago
+2249,google,USA,IL,Grayslake
+2250,google,USA,IL,Urbana
+2251,google,USA,IN,Austin
+2252,google,USA,IN,Brazil
+2253,google,USA,IN,South Bend
+2254,google,USA,KS,Emporia
+2255,google,USA,KY,Louisville
+2256,google,USA,KY,No Creek
+2257,google,USA,KY,Sweeden
+2258,google,USA,LA,Sicily Island
+2259,google,USA,MA,Boston
+2260,google,USA,MA,Cambridge
+2261,google,USA,MA,Lexington
+2262,google,USA,MA,Newton
+2263,google,USA,MA,Westborough
+2264,google,USA,MA,Winthrop
+2265,google,USA,MD,Baltimore
+2266,google,USA,MI,Ann Arbor
+2267,google,USA,MI,Dearborn
+2268,google,USA,MI,Grand Blanc
+2269,google,USA,MI,Ypsilanti
+2270,google,USA,MN,Minneapolis
+2271,google,USA,MN,New York Mls
+2272,google,USA,MO,Kansas City
+2273,google,USA,MO,New York
+2274,google,USA,MO,Pom-o-sa Heights
+2275,google,USA,MO,Poplar Bluff
+2276,google,USA,MO,Saint Louis
+2277,google,USA,MO,Saint Peters
+2278,google,USA,MS,Meridian
+2279,google,USA,NC,Buncombe
+2280,google,USA,NC,Cal-Vel
+2281,google,USA,NC,Greenville
+2282,google,USA,NC,Lenoir
+2283,google,USA,NC,Raleigh
+2284,google,USA,NC,Research Triangle Park
+2285,google,USA,ND,Munich
+2286,google,USA,NE,Lincoln
+2287,google,USA,NE,Omaha
+2288,google,USA,NJ,East Brunswick
+2289,google,USA,NJ,Hoboken
+2290,google,USA,NJ,Iselin
+2291,google,USA,NJ,Midland Park
+2292,google,USA,NJ,Newark
+2293,google,USA,NJ,Paterson
+2294,google,USA,NJ,Princeton
+2295,google,USA,NJ,South Plainfield
+2296,google,USA,NY,Astoria
+2297,google,USA,NY,Bronx
+2298,google,USA,NY,Brooklyn
+2299,google,USA,NY,Buffalo
+2300,google,USA,NY,China
+2301,google,USA,NY,East Syracuse
+2302,google,USA,NY,Mount Vernon
+2303,google,USA,NY,New York
+2304,google,USA,NY,Sea Cliff
+2305,google,USA,OH,Avon Lake
+2306,google,USA,OH,Columbus
+2307,google,USA,OK,Muskogee
+2308,google,USA,OK,Pryor
+2309,google,USA,OR,Portland
+2310,google,USA,OR,The Dalles
+2311,google,USA,PA,Back Mountain
+2312,google,USA,PA,Carnegie
+2313,google,USA,PA,Macungie
+2314,google,USA,PA,Mont Alto
+2315,google,USA,PA,Philadelphia
+2316,google,USA,PA,Pitts
+2317,google,USA,PA,Pittsburgh
+2318,google,USA,PA,Valencia
+2319,google,USA,SC,Moncks Corner
+2320,google,USA,TN,Fayetteville
+2321,google,USA,TN,India
+2322,google,USA,TN,Nashville
+2323,google,USA,TX,Alto
+2324,google,USA,TX,Austin
+2325,google,USA,TX,College Station
+2326,google,USA,TX,Dallas
+2327,google,USA,TX,Earth
+2328,google,USA,TX,El Paso
+2329,google,USA,TX,Grapevine
+2330,google,USA,TX,Houston
+2331,google,USA,TX,India
+2332,google,USA,TX,McAllen
+2333,google,USA,TX,Round Rock
+2334,google,USA,TX,Rowlett
+2335,google,USA,TX,San Antonio
+2336,google,USA,TX,Waco
+2337,google,USA,UT,Kanab
+2338,google,USA,UT,Park City
+2339,google,USA,UT,Salt Lake City
+2340,google,USA,VA,Blacksburg
+2341,google,USA,VA,Reston
+2342,google,USA,VA,Virginia Beach
+2343,google,USA,WA,Bothell
+2344,google,USA,WA,Issaquah
+2345,google,USA,WA,Kirkland
+2346,google,USA,WA,Redmond
+2347,google,USA,WA,Seattle
+2348,google,USA,WI,Chicago
+2349,google,USA,WI,Green Bay
+2350,google,USA,WI,Madison
+2351,google,USA,WI,Milwaukee
+2352,google,USA,WV,Mountain
+2353,google,Venezuela,Capital District,Caracas
+2354,google,Venezuela,NULL,Ciudad Guayana
+2355,google,Venezuela,NULL,SanFrancisco
+2356,google,Vietnam,NULL,Hanoi
+2357,google,Yemen,Ta'izz,Taiz
+2358,microsoft,Algeria,NULL,Algiers
+2359,microsoft,Argentina,NULL,Buenos Aires
+2360,microsoft,Australia,NULL,Brisbane
+2361,microsoft,Australia,NULL,Melbourne
+2362,microsoft,Australia,NULL,North Ryde
+2363,microsoft,Australia,NULL,Redmond
+2364,microsoft,Australia,NULL,Sydney
+2365,microsoft,Austria,NULL,Vienna
+2366,microsoft,Azerbaijan,NULL,Ganja
+2367,microsoft,Bangladesh,NULL,Dhaka
+2368,microsoft,Belgium,NULL,Brussels
+2369,microsoft,Belgium,NULL,Zaventem
+2370,microsoft,Bosnia and Herzegovina,NULL,Bak
+2371,microsoft,Brazil,Federal District,Brasília
+2372,microsoft,Brazil,Pernambuco,Recife
+2373,microsoft,Brazil,São Paulo,São Paulo
+2374,microsoft,Brazil,NULL,Barueri
+2375,microsoft,Brazil,NULL,Vila Nova Conceição
+2376,microsoft,Bulgaria,NULL,Sofia
+2377,microsoft,Canada,AB,Calgary
+2378,microsoft,Canada,BC,Burnaby
+2379,microsoft,Canada,BC,Richmond
+2380,microsoft,Canada,BC,Surrey
+2381,microsoft,Canada,BC,Vancouver
+2382,microsoft,Canada,BC,West Vancouver
+2383,microsoft,Canada,NU,Arctic Bay
+2384,microsoft,Canada,ON,Mississauga
+2385,microsoft,Canada,ON,Oakville
+2386,microsoft,Canada,ON,Ottawa
+2387,microsoft,Canada,ON,Thornhill
+2388,microsoft,Canada,ON,Toronto
+2389,microsoft,Canada,ON,Windsor
+2390,microsoft,Canada,QC,Montreal
+2391,microsoft,Canada,QC,Quebec
+2392,microsoft,Canada,SK,Saskatoon
+2393,microsoft,Chile,NULL,La Serena
+2394,microsoft,Chile,NULL,Santiago
+2395,microsoft,China,Beijing,Beijing
+2396,microsoft,China,Beijing,Changping
+2397,microsoft,China,Beijing,Fangshan
+2398,microsoft,China,Beijing,Haidian
+2399,microsoft,China,Chongqing,Chongqing
+2400,microsoft,China,Guangdong,Guangzhou
+2401,microsoft,China,Guangdong,Shenzhen
+2402,microsoft,China,Jiangsu,Suzhou
+2403,microsoft,China,Shanghai,Pudong
+2404,microsoft,China,Shanghai,Shanghai
+2405,microsoft,China,Zhejiang,Hangzhou
+2406,microsoft,Colombia,Bogota,Bogotá
+2407,microsoft,Costa Rica,San Jose,San Jose
+2408,microsoft,Cote d'Ivoire,NULL,Abidjan
+2409,microsoft,Croatia,NULL,Zagreb
+2410,microsoft,Czech Republic,NULL,Prague
+2411,microsoft,Denmark,NULL,Copenhagen
+2412,microsoft,Denmark,NULL,Hellerup
+2413,microsoft,Denmark,NULL,Kongens Lyngby
+2414,microsoft,Denmark,NULL,Oddesund Syd
+2415,microsoft,Denmark,NULL,Over Feldborg
+2416,microsoft,Denmark,NULL,Vedbæk
+2417,microsoft,Ecuador,NULL,Quito
+2418,microsoft,Egypt,NULL,Alexandria
+2419,microsoft,Egypt,NULL,Cairo
+2420,microsoft,El Salvador,NULL,San Salvador
+2421,microsoft,Engla,South West England,Wiltshire
+2422,microsoft,Estonia,NULL,Tallinn
+2423,microsoft,Ethiopia,Dire Dawa,Goro
+2424,microsoft,Ethiopia,NULL,Addis Ababa
+2425,microsoft,Finland,Southern Finland,Helsinki
+2426,microsoft,Finland,Western Finland,Helsinki
+2427,microsoft,Finland,Western Finland,Salo
+2428,microsoft,Finland,NULL,Espoo
+2429,microsoft,Finland,NULL,Tampere
+2430,microsoft,France,NULL,Issy-les-Moulineaux
+2431,microsoft,France,NULL,Marseille
+2432,microsoft,France,NULL,Paris
+2433,microsoft,Germany,Bayern,Munich
+2434,microsoft,Germany,NULL,Berlin
+2435,microsoft,Germany,NULL,Cologne
+2436,microsoft,Germany,NULL,Unterschleißheim
+2437,microsoft,Ghana,NULL,Accra
+2438,microsoft,Greece,Thessaly,Néa Smírni
+2439,microsoft,Greece,NULL,Athens
+2440,microsoft,Guatemala,NULL,Chicago
+2441,microsoft,Hong Kong,NULL,Hong Kong
+2442,microsoft,Hong Kong,NULL,Kon Hang
+2443,microsoft,Hungary,NULL,Budapest
+2444,microsoft,India,Haryana,Gurgaon
+2445,microsoft,India,Jammu and Kashmir,Srinagar
+2446,microsoft,India,Maharashtra,Aurangabad
+2447,microsoft,India,Rajasthan,Jaipur
+2448,microsoft,India,Rajasthan,Jodhpur
+2449,microsoft,India,Rajasthan,Udaipur
+2450,microsoft,India,NULL,Ahmedabad
+2451,microsoft,India,NULL,Ajmer
+2452,microsoft,India,NULL,Basti
+2453,microsoft,India,NULL,Belagave
+2454,microsoft,India,NULL,Bengaluru
+2455,microsoft,India,NULL,Bhubaneswar
+2456,microsoft,India,NULL,Chandigarh
+2457,microsoft,India,NULL,Chennai
+2458,microsoft,India,NULL,Dhanbad
+2459,microsoft,India,NULL,Global Village Park
+2460,microsoft,India,NULL,Guntur
+2461,microsoft,India,NULL,Guwahati
+2462,microsoft,India,NULL,Hyderabad
+2463,microsoft,India,NULL,Indore
+2464,microsoft,India,NULL,Kali De
+2465,microsoft,India,NULL,Kolkata
+2466,microsoft,India,NULL,Kurnool
+2467,microsoft,India,NULL,Mumbai
+2468,microsoft,India,NULL,New Delhi
+2469,microsoft,India,NULL,Noida
+2470,microsoft,India,NULL,Ongole
+2471,microsoft,India,NULL,Phagwara
+2472,microsoft,India,NULL,Pune
+2473,microsoft,India,NULL,Pune City
+2474,microsoft,India,NULL,Shillong
+2475,microsoft,Indonesia,NULL,Emea
+2476,microsoft,Indonesia,NULL,Jakarta
+2477,microsoft,Iran,East Azarbaijan,Tabrīz
+2478,microsoft,Iraq,NULL,Duhok
+2479,microsoft,Ireland,Co. Dublin,Dublin
+2480,microsoft,Ireland,NULL,Ashbourne
+2481,microsoft,Ireland,NULL,Cork
+2482,microsoft,Ireland,NULL,Leopardstown
+2483,microsoft,Ireland,NULL,Sandyford
+2484,microsoft,Ireland,NULL,Swords
+2485,microsoft,Israel,NULL,Haifa
+2486,microsoft,Israel,NULL,Herzliya
+2487,microsoft,Israel,NULL,Herzliyya B
+2488,microsoft,Israel,NULL,Kfar Saba
+2489,microsoft,Israel,NULL,Raanana
+2490,microsoft,Israel,NULL,Tel Aviv
+2491,microsoft,Israel,NULL,Tel Aviv-Yafo
+2492,microsoft,Italy,NULL,Milan
+2493,microsoft,Italy,NULL,Milano
+2494,microsoft,Italy,NULL,Pontedera
+2495,microsoft,Italy,NULL,Roma
+2496,microsoft,Italy,NULL,Rome
+2497,microsoft,Jamaica,NULL,New England
+2498,microsoft,Japan,NULL,Chōfu
+2499,microsoft,Japan,NULL,Hachiōji
+2500,microsoft,Japan,NULL,Setagaya
+2501,microsoft,Japan,NULL,Shinagawa
+2502,microsoft,Japan,NULL,Tokyo
+2503,microsoft,Jordan,Amman Governorate,Ḩawwārah
+2504,microsoft,Jordan,NULL,Irbid
+2505,microsoft,Kazakhstan,NULL,Almaty
+2506,microsoft,Kenya,NULL,Nairobi
+2507,microsoft,Kenya,NULL,Nanigi East
+2508,microsoft,Latvia,NULL,Riga
+2509,microsoft,Lebanon,NULL,Beirut
+2510,microsoft,Malaysia,Selangor Darul Ehsan,Ampang
+2511,microsoft,Malaysia,NULL,Johor Bahru
+2512,microsoft,Malaysia,NULL,Kuala Lumpur
+2513,microsoft,Mauritius,NULL,Port Louis
+2514,microsoft,Mexico,Distrito Federal,Mexico
+2515,microsoft,Mexico,NULL,Mexico City
+2516,microsoft,Morocco,NULL,Casablanca
+2517,microsoft,NaC,NaC,NaC
+2518,microsoft,Netherlands,NULL,Amsterdam
+2519,microsoft,Netherlands,NULL,Schiphol
+2520,microsoft,New Zealand,Auckland,Auckland
+2521,microsoft,Nigeria,Niger,Abuja
+2522,microsoft,Nigeria,NULL,Lagos
+2523,microsoft,Norway,NULL,Oslo
+2524,microsoft,Oman,NULL,Muscat
+2525,microsoft,Pakistan,Sind,Hyderābād
+2526,microsoft,Pakistan,NULL,Karāchi
+2527,microsoft,Pakistan,NULL,Lahore
+2528,microsoft,Peru,Lima Region,Lima
+2529,microsoft,Philippines,Manila,Manila
+2530,microsoft,Philippines,NULL,Asia
+2531,microsoft,Poland,NULL,Warsaw
+2532,microsoft,Portugal,NULL,Lisbon
+2533,microsoft,Qatar,NULL,Doha
+2534,microsoft,Romania,NULL,Bucharest
+2535,microsoft,Romania,NULL,Iaşi
+2536,microsoft,Romania,NULL,Timişoara
+2537,microsoft,Russia,NULL,Khabarovsk
+2538,microsoft,Russia,NULL,Moscow
+2539,microsoft,Russia,NULL,Saint Petersburg
+2540,microsoft,Russia,NULL,Zelenograd
+2541,microsoft,Saudi Arabia,NULL,Riyadh
+2542,microsoft,Serbia,Central Serbia,Toplica
+2543,microsoft,Serbia,NULL,Belgrade
+2544,microsoft,Singapore,Central,Bukit Merah
+2545,microsoft,Singapore,West,Bukit Batok
+2546,microsoft,Singapore,NULL,Singapore
+2547,microsoft,Slovakia,NULL,Bratislava
+2548,microsoft,Slovenia,NULL,Ljubljana
+2549,microsoft,South Africa,NULL,Bryanston
+2550,microsoft,South Africa,NULL,Cape Town
+2551,microsoft,South Africa,NULL,Egypt
+2552,microsoft,South Africa,NULL,Johannesburg
+2553,microsoft,South Korea,NULL,Seoul
+2554,microsoft,Spain,NULL,Barcelona
+2555,microsoft,Spain,NULL,Lon
+2556,microsoft,Spain,NULL,Madrid
+2557,microsoft,Sri Lanka,NULL,Colombo
+2558,microsoft,Sweden,Skåne,Lund
+2559,microsoft,Sweden,Stockholm,Stockholm
+2560,microsoft,Sweden,NULL,Danmark
+2561,microsoft,Sweden,NULL,Södertälje
+2562,microsoft,Switzerland,NULL,Basel
+2563,microsoft,Switzerland,NULL,Wallisellen
+2564,microsoft,Switzerland,NULL,Zürich
+2565,microsoft,Taiwan,NULL,Taipei
+2566,microsoft,Thailand,NULL,Bangkok
+2567,microsoft,Turkey,NULL,Ankara
+2568,microsoft,Turkey,NULL,Istanbul
+2569,microsoft,Uganda,NULL,Kampala
+2570,microsoft,UK,England,Blackburn
+2571,microsoft,UK,England,Brighton
+2572,microsoft,UK,England,Bristol
+2573,microsoft,UK,England,East of England
+2574,microsoft,UK,England,Egham
+2575,microsoft,UK,England,Guildford
+2576,microsoft,UK,England,Heddon on the Wall
+2577,microsoft,UK,England,Liverpool
+2578,microsoft,UK,England,London
+2579,microsoft,UK,England,Manchester
+2580,microsoft,UK,England,Northampton
+2581,microsoft,UK,England,Reading
+2582,microsoft,UK,England,South East England
+2583,microsoft,UK,England,South West England
+2584,microsoft,UK,England,Twycross
+2585,microsoft,UK,England,Wimborne Minster
+2586,microsoft,UK,Northern Ireland,Belfast
+2587,microsoft,UK,Scotland,Dundee
+2588,microsoft,UK,Scotland,Glasgow
+2589,microsoft,UK,Scotland,Newyork
+2590,microsoft,Ukraine,NULL,Kiev
+2591,microsoft,United Arab Emirates,NULL,Dubai
+2592,microsoft,United Arab Emirates,NULL,Jumayrah
+2593,microsoft,USA,AK,Eagle River
+2594,microsoft,USA,AL,Auburn
+2595,microsoft,USA,AL,Birmingham
+2596,microsoft,USA,AL,Prattville
+2597,microsoft,USA,AL,Redmont Park
+2598,microsoft,USA,AR,Bentonville
+2599,microsoft,USA,AR,Driver
+2600,microsoft,USA,AR,Springdale
+2601,microsoft,USA,AZ,Mesa
+2602,microsoft,USA,AZ,Phoenix
+2603,microsoft,USA,AZ,Scottsdale
+2604,microsoft,USA,AZ,Surprise
+2605,microsoft,USA,AZ,Tempe
+2606,microsoft,USA,AZ,Tucson
+2607,microsoft,USA,CA,Aliso Viejo
+2608,microsoft,USA,CA,Campbell
+2609,microsoft,USA,CA,Century City
+2610,microsoft,USA,CA,Claremont
+2611,microsoft,USA,CA,Corte Madera
+2612,microsoft,USA,CA,Costa Mesa
+2613,microsoft,USA,CA,Cupertino
+2614,microsoft,USA,CA,Hillsborough
+2615,microsoft,USA,CA,Irvine
+2616,microsoft,USA,CA,La Habra
+2617,microsoft,USA,CA,Los Angeles
+2618,microsoft,USA,CA,Los Gatos
+2619,microsoft,USA,CA,Menlo Park
+2620,microsoft,USA,CA,Mill Valley
+2621,microsoft,USA,CA,Mission Viejo
+2622,microsoft,USA,CA,Mountain View
+2623,microsoft,USA,CA,Newport Coast
+2624,microsoft,USA,CA,Pacifica
+2625,microsoft,USA,CA,Palo Alto
+2626,microsoft,USA,CA,Rancho Cucamonga
+2627,microsoft,USA,CA,Rancho Santa Margarita
+2628,microsoft,USA,CA,Redlands
+2629,microsoft,USA,CA,Roseville
+2630,microsoft,USA,CA,Sacramento
+2631,microsoft,USA,CA,San Diego
+2632,microsoft,USA,CA,San Francisco
+2633,microsoft,USA,CA,San Jose
+2634,microsoft,USA,CA,Santa Clara
+2635,microsoft,USA,CA,Santa Monica
+2636,microsoft,USA,CA,Sherman Oaks
+2637,microsoft,USA,CA,South San Francisco
+2638,microsoft,USA,CA,Sunnyvale
+2639,microsoft,USA,CA,Walnut Creek
+2640,microsoft,USA,CA,West Los Angeles
+2641,microsoft,USA,CA,Westminster
+2642,microsoft,USA,CA,Woodside
+2643,microsoft,USA,CO,Arvada
+2644,microsoft,USA,CO,Boulder
+2645,microsoft,USA,CO,Castle Rock
+2646,microsoft,USA,CO,Colorado Springs
+2647,microsoft,USA,CO,Denver
+2648,microsoft,USA,CO,Englewood
+2649,microsoft,USA,CO,Fort Collins
+2650,microsoft,USA,CO,Lone Tree
+2651,microsoft,USA,CO,Mission Viejo
+2652,microsoft,USA,CT,Danbury
+2653,microsoft,USA,CT,Farmington
+2654,microsoft,USA,CT,Hartford
+2655,microsoft,USA,CT,Norwalk
+2656,microsoft,USA,CT,Orange
+2657,microsoft,USA,CT,Sandy Hook
+2658,microsoft,USA,DC,Washington
+2659,microsoft,USA,DE,Newark
+2660,microsoft,USA,FL,Aventura
+2661,microsoft,USA,FL,Boca Raton
+2662,microsoft,USA,FL,Brandon
+2663,microsoft,USA,FL,Coconut Creek
+2664,microsoft,USA,FL,Coral Springs
+2665,microsoft,USA,FL,Fort Lauderdale
+2666,microsoft,USA,FL,Gainesville
+2667,microsoft,USA,FL,Jacksonville
+2668,microsoft,USA,FL,Miami
+2669,microsoft,USA,FL,Miami Beach
+2670,microsoft,USA,FL,Naples
+2671,microsoft,USA,FL,North Lauderdale
+2672,microsoft,USA,FL,Orlando
+2673,microsoft,USA,FL,Palm Beach Gardens
+2674,microsoft,USA,FL,Sarasota
+2675,microsoft,USA,FL,South Florida
+2676,microsoft,USA,FL,Tallahassee
+2677,microsoft,USA,FL,Tampa
+2678,microsoft,USA,FL,Weston
+2679,microsoft,USA,GA,Alpharetta
+2680,microsoft,USA,GA,Alpharette
+2681,microsoft,USA,GA,Atlanta
+2682,microsoft,USA,GA,Ball Ground
+2683,microsoft,USA,GA,Canton
+2684,microsoft,USA,GA,Cumming
+2685,microsoft,USA,GA,Egypt
+2686,microsoft,USA,HI,Honolulu
+2687,microsoft,USA,IA,Cedar Rapids
+2688,microsoft,USA,IA,Des Moines
+2689,microsoft,USA,IA,West Des Moines
+2690,microsoft,USA,ID,Boise
+2691,microsoft,USA,IL,Chicago
+2692,microsoft,USA,IL,Downers Grove
+2693,microsoft,USA,IL,Hoffman Estates
+2694,microsoft,USA,IL,Lake Forest
+2695,microsoft,USA,IL,Lockport
+2696,microsoft,USA,IL,North Chicago
+2697,microsoft,USA,IL,Oak Brook
+2698,microsoft,USA,IL,Ohio
+2699,microsoft,USA,IL,Pawnee
+2700,microsoft,USA,IL,Redmon
+2701,microsoft,USA,IL,Schaumburg
+2702,microsoft,USA,IL,Skokie
+2703,microsoft,USA,IN,Aurora
+2704,microsoft,USA,IN,Brazil
+2705,microsoft,USA,IN,Indianapolis
+2706,microsoft,USA,KS,Canada
+2707,microsoft,USA,KS,Fairway
+2708,microsoft,USA,KS,Overland Park
+2709,microsoft,USA,KY,Lexington
+2710,microsoft,USA,KY,London
+2711,microsoft,USA,LA,New Orleans
+2712,microsoft,USA,LA,Prairieville
+2713,microsoft,USA,MA,Allston
+2714,microsoft,USA,MA,Boston
+2715,microsoft,USA,MA,Burlington
+2716,microsoft,USA,MA,Cambridge
+2717,microsoft,USA,MA,Dunstable
+2718,microsoft,USA,MA,Natick
+2719,microsoft,USA,MA,North Andover
+2720,microsoft,USA,MA,Pepperell
+2721,microsoft,USA,MA,Waltham
+2722,microsoft,USA,MD,Baltimore
+2723,microsoft,USA,MD,Bethesda
+2724,microsoft,USA,MD,Chevy Chase
+2725,microsoft,USA,MD,Galena
+2726,microsoft,USA,MD,Silver Spring
+2727,microsoft,USA,MD,University Park
+2728,microsoft,USA,ME,China
+2729,microsoft,USA,ME,Kennebunk
+2730,microsoft,USA,MI,Ann Arbor
+2731,microsoft,USA,MI,Detroit
+2732,microsoft,USA,MI,Madison Heights
+2733,microsoft,USA,MI,Southfield
+2734,microsoft,USA,MI,Warren
+2735,microsoft,USA,MN,Bloomington
+2736,microsoft,USA,MN,Edina
+2737,microsoft,USA,MN,Minneapolis
+2738,microsoft,USA,MN,Red Wing
+2739,microsoft,USA,MN,Saint Paul
+2740,microsoft,USA,MO,Florissant
+2741,microsoft,USA,MO,Kansas City
+2742,microsoft,USA,MO,New York
+2743,microsoft,USA,MO,Saint Louis
+2744,microsoft,USA,MO,Sweden
+2745,microsoft,USA,NC,Cal-Vel
+2746,microsoft,USA,NC,Charlotte
+2747,microsoft,USA,NC,Durham
+2748,microsoft,USA,NC,Huntersville
+2749,microsoft,USA,NC,Matthews
+2750,microsoft,USA,NC,Raleigh
+2751,microsoft,USA,NC,Research Triangle Park
+2752,microsoft,USA,NC,Waxhaw
+2753,microsoft,USA,NC,Wilmington
+2754,microsoft,USA,ND,Fargo
+2755,microsoft,USA,ND,South West Fargo
+2756,microsoft,USA,NE,Bellevue
+2757,microsoft,USA,NH,Salem
+2758,microsoft,USA,NH,Windham
+2759,microsoft,USA,NJ,Allentown
+2760,microsoft,USA,NJ,Bridgewater
+2761,microsoft,USA,NJ,Edison
+2762,microsoft,USA,NJ,Freehold
+2763,microsoft,USA,NJ,Iselin
+2764,microsoft,USA,NJ,Jersey City
+2765,microsoft,USA,NJ,Newark
+2766,microsoft,USA,NJ,New Brunswick
+2767,microsoft,USA,NJ,Paramus
+2768,microsoft,USA,NJ,Perth Amboy
+2769,microsoft,USA,NJ,Plainfield
+2770,microsoft,USA,NJ,Princeton
+2771,microsoft,USA,NJ,Sea Bright
+2772,microsoft,USA,NJ,Sea Girt
+2773,microsoft,USA,NJ,Wayne
+2774,microsoft,USA,NJ,West Long Branch
+2775,microsoft,USA,NM,Las Cruces
+2776,microsoft,USA,NV,Las Vegas
+2777,microsoft,USA,NV,Reno
+2778,microsoft,USA,NY,Albany
+2779,microsoft,USA,NY,Binghamton
+2780,microsoft,USA,NY,Bronx
+2781,microsoft,USA,NY,Brooklyn
+2782,microsoft,USA,NY,Buffalo
+2783,microsoft,USA,NY,Chelsea
+2784,microsoft,USA,NY,Delhi
+2785,microsoft,USA,NY,Garden City
+2786,microsoft,USA,NY,Hauppauge
+2787,microsoft,USA,NY,Huntington
+2788,microsoft,USA,NY,New York
+2789,microsoft,USA,NY,Northeast Center
+2790,microsoft,USA,NY,Rochester
+2791,microsoft,USA,NY,Sea Cliff
+2792,microsoft,USA,NY,White Plains
+2793,microsoft,USA,OH,Cincinnati
+2794,microsoft,USA,OH,Cleveland
+2795,microsoft,USA,OH,Columbus
+2796,microsoft,USA,OH,Greenville
+2797,microsoft,USA,OH,The Eastern
+2798,microsoft,USA,OH,Toronto
+2799,microsoft,USA,OK,Oklahoma City
+2800,microsoft,USA,OR,Beaverton
+2801,microsoft,USA,OR,Medford
+2802,microsoft,USA,OR,Oregon City
+2803,microsoft,USA,OR,Portland
+2804,microsoft,USA,OR,Redmond
+2805,microsoft,USA,OR,Remote
+2806,microsoft,USA,OR,Salem
+2807,microsoft,USA,OR,Wilsonville
+2808,microsoft,USA,PA,Birmingham
+2809,microsoft,USA,PA,Huntingdon Valley
+2810,microsoft,USA,PA,India
+2811,microsoft,USA,PA,King of Prussia
+2812,microsoft,USA,PA,Malvern
+2813,microsoft,USA,PA,Phila
+2814,microsoft,USA,PA,Philadelphia
+2815,microsoft,USA,PR,Carolina
+2816,microsoft,USA,PR,Guaynabo
+2817,microsoft,USA,PR,Humacao
+2818,microsoft,USA,PR,San Juan
+2819,microsoft,USA,SC,Beaufort
+2820,microsoft,USA,SD,Spain
+2821,microsoft,USA,SD,Watertown
+2822,microsoft,USA,TN,India
+2823,microsoft,USA,TN,Knoxville
+2824,microsoft,USA,TN,Manchester
+2825,microsoft,USA,TN,Nashville
+2826,microsoft,USA,TX,Argyle
+2827,microsoft,USA,TX,Austin
+2828,microsoft,USA,TX,Balch Springs
+2829,microsoft,USA,TX,Carrollton
+2830,microsoft,USA,TX,China
+2831,microsoft,USA,TX,Conroe
+2832,microsoft,USA,TX,Cypress
+2833,microsoft,USA,TX,Dallas
+2834,microsoft,USA,TX,Fort Worth
+2835,microsoft,USA,TX,Frisco
+2836,microsoft,USA,TX,Houston
+2837,microsoft,USA,TX,India
+2838,microsoft,USA,TX,Irving
+2839,microsoft,USA,TX,Israel
+2840,microsoft,USA,TX,Las Colonias
+2841,microsoft,USA,TX,Lewisville
+2842,microsoft,USA,TX,Plano
+2843,microsoft,USA,TX,Richards
+2844,microsoft,USA,TX,Richardson
+2845,microsoft,USA,TX,Sachse
+2846,microsoft,USA,TX,San Antonio
+2847,microsoft,USA,TX,San Diego
+2848,microsoft,USA,TX,The Woodlands
+2849,microsoft,USA,TX,Watauga
+2850,microsoft,USA,UT,American Fork
+2851,microsoft,USA,UT,Lehi
+2852,microsoft,USA,UT,Murray
+2853,microsoft,USA,UT,Redmond
+2854,microsoft,USA,UT,Salt Lake City
+2855,microsoft,USA,VA,Arlington
+2856,microsoft,USA,VA,Burke
+2857,microsoft,USA,VA,Harrisonburg
+2858,microsoft,USA,VA,Herndon
+2859,microsoft,USA,VA,Isle of Wight
+2860,microsoft,USA,VA,Norfolk
+2861,microsoft,USA,VA,Reston
+2862,microsoft,USA,VA,Richmond
+2863,microsoft,USA,VA,Sterling
+2864,microsoft,USA,VA,Tysons
+2865,microsoft,USA,VA,Virginia Beach
+2866,microsoft,USA,WA,Auburn
+2867,microsoft,USA,WA,Bellevue
+2868,microsoft,USA,WA,Bellingham
+2869,microsoft,USA,WA,Black Diamond
+2870,microsoft,USA,WA,Bonney Lake
+2871,microsoft,USA,WA,Bothell
+2872,microsoft,USA,WA,Covington
+2873,microsoft,USA,WA,Duvall
+2874,microsoft,USA,WA,Edmonds
+2875,microsoft,USA,WA,Everett
+2876,microsoft,USA,WA,Issaquah
+2877,microsoft,USA,WA,Kenmore
+2878,microsoft,USA,WA,Kent
+2879,microsoft,USA,WA,Kirkland
+2880,microsoft,USA,WA,Lake Stevens
+2881,microsoft,USA,WA,Lynnwood
+2882,microsoft,USA,WA,Maple Valley
+2883,microsoft,USA,WA,Mercer Island
+2884,microsoft,USA,WA,Mill Creek
+2885,microsoft,USA,WA,Monroe
+2886,microsoft,USA,WA,Newcastle
+2887,microsoft,USA,WA,North Bend
+2888,microsoft,USA,WA,Port Orchard
+2889,microsoft,USA,WA,Poulsbo
+2890,microsoft,USA,WA,Puget
+2891,microsoft,USA,WA,Redmond
+2892,microsoft,USA,WA,Renton
+2893,microsoft,USA,WA,Sammamish
+2894,microsoft,USA,WA,Seattle
+2895,microsoft,USA,WA,Seattle Heights
+2896,microsoft,USA,WA,Shoreline
+2897,microsoft,USA,WA,Snohomish
+2898,microsoft,USA,WA,Snoqualmie
+2899,microsoft,USA,WA,South Seattle
+2900,microsoft,USA,WA,Sumner
+2901,microsoft,USA,WA,Tacoma
+2902,microsoft,USA,WA,West Lake Sammamish
+2903,microsoft,USA,WA,West Seattle
+2904,microsoft,USA,WA,Woodinville
+2905,microsoft,USA,WI,Madison
+2906,microsoft,USA,WI,Milwaukee
+2907,microsoft,USA,WI,Mukwonago
+2908,microsoft,USA,WV,Mountain
+2909,microsoft,USA,WV,Redmond
+2910,microsoft,USA,WY,Cheyenne
+2911,microsoft,Uzbekistan,NULL,Tashkent
+2912,microsoft,Venezuela,Capital District,Caracas
+2913,microsoft,Venezuela,NULL,Maracaibo
+2914,microsoft,Vietnam,NULL,Hanoi
+2915,microsoft,Vietnam,NULL,Hà Nội
+2916,microsoft,Vietnam,NULL,Ho Chi Minh City
+2917,netflix,France,NULL,Sartrouville
+2918,netflix,Germany,NULL,Berlin
+2919,netflix,NaC,NaC,NaC
+2920,netflix,Netherlands,NULL,Amsterdam
+2921,netflix,Singapore,NULL,Singapore
+2922,netflix,Spain,NULL,Madrid
+2923,netflix,Thailand,NULL,Chiang Mai
+2924,netflix,UK,England,London
+2925,netflix,USA,AK,Anchorage
+2926,netflix,USA,AZ,Phoenix
+2927,netflix,USA,CA,Anaheim
+2928,netflix,USA,CA,Beverly Hills
+2929,netflix,USA,CA,Burbank
+2930,netflix,USA,CA,Fremont
+2931,netflix,USA,CA,Gilroy
+2932,netflix,USA,CA,Hollywood
+2933,netflix,USA,CA,London
+2934,netflix,USA,CA,Los Angeles
+2935,netflix,USA,CA,Los Gatos
+2936,netflix,USA,CA,Morgan Hill
+2937,netflix,USA,CA,Redwood City
+2938,netflix,USA,CA,San Francisco
+2939,netflix,USA,CA,San Jose
+2940,netflix,USA,CA,Santa Ana
+2941,netflix,USA,CA,Santa Clara
+2942,netflix,USA,CA,Santa Clarita
+2943,netflix,USA,CA,Santa Monica
+2944,netflix,USA,CA,Sunnyvale
+2945,netflix,USA,CA,Venice
+2946,netflix,USA,CO,Aurora
+2947,netflix,USA,CO,Colorado Springs
+2948,netflix,USA,CO,Denver
+2949,netflix,USA,FL,Clearwater
+2950,netflix,USA,FL,Fort Lauderdale
+2951,netflix,USA,FL,Panama City
+2952,netflix,USA,FL,Tampa
+2953,netflix,USA,GA,Norcross
+2954,netflix,USA,ID,Boise
+2955,netflix,USA,IL,Chicago
+2956,netflix,USA,IL,Naperville
+2957,netflix,USA,IN,Michigantown
+2958,netflix,USA,MA,Worcester
+2959,netflix,USA,ME,South Portland
+2960,netflix,USA,MI,Farmington Hills
+2961,netflix,USA,MI,Lansing
+2962,netflix,USA,MI,Southfield
+2963,netflix,USA,MO,Saint Louis
+2964,netflix,USA,NJ,Lindenwold
+2965,netflix,USA,NV,Las Vegas
+2966,netflix,USA,NV,North Las Vegas
+2967,netflix,USA,NY,New York
+2968,netflix,USA,OH,Columbus
+2969,netflix,USA,OH,Grove City
+2970,netflix,USA,OR,Beaverton
+2971,netflix,USA,OR,Hillsboro
+2972,netflix,USA,OR,Portland
+2973,netflix,USA,PA,Pittsburgh
+2974,netflix,USA,TX,Dallas
+2975,netflix,USA,TX,Frisco
+2976,netflix,USA,UT,Salt Lake City
+2977,netflix,USA,VA,Richmond
+2978,netflix,USA,WA,Redmond

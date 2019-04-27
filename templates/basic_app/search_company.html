@@ -1,0 +1,146 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="{% static 'review/review.css' %}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  </head>
+
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <a class="navbar-brand" href="#">Rate My Job</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarText">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item active">
+            <a class="nav-link" href="{% url 'index' %}">Home <span class="sr-only">(current)</span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="{% url 'admin:index' %}">Admin</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="{% url 'basic_app:register' %}">Register</a>
+          </li>
+          {%  if user.is_authenticated %}
+            <li class="nav-item">
+              <a class="nav-link" href="{% url 'logout' %}">Logout</a>
+            </li>
+          {% else %}
+            <li class="nav-item">
+              <a class="nav-link" href="{% url 'basic_app:user_login' %}">Login</a>
+            </li>
+          {% endif %}
+          <!--akhdawkdhhhhhhhhhhh-->
+          {%  if user.is_authenticated %}
+            <li class="nav-item">
+              <a class="nav-link" href="{% url 'basic_app:manage_review' %}">Manage Review</a>
+            </li>
+          {% else %}
+          {% endif %}
+          <li class="nav-item">
+            <a class="nav-link" href="{% url 'basic_app:review' %}">Company Reviews <span class="sr-only">(current)</span></a>
+          </li>
+
+          <li class="nav-item">
+            <a class="nav-link" href="{% url 'basic_app:polls_list' %}">Polls <span class="sr-only">(current)</span></a>
+          </li>
+
+
+        </ul>
+        <span class="navbar-text">
+          A Tech Company Job Review Engine
+        </span>
+      </div>
+    </nav>
+
+
+    <main role="main" class="container">
+      <div class="row">
+        <div class="col-md-8">
+          {% block content %}
+          {% for arr in cur_review_info %}
+          <article class="media content-section">
+              <div class="media-body">
+                <div class="article-metadata">
+                  <h2><a class="mr-2"  >{{ arr.17 }}</a></h2>
+                    <span n={{arr.6}}></span>
+
+                <small class="text-muted">{{ arr.1 }} </small>
+
+                  <div>
+                      <small class="text-muted">{{arr.22}} in {{ arr.18 }} {{ arr.20 }}</small>
+                  </div>
+                </div>
+                    <h5><a class="mr-2">Summary</a></h5>
+                    <p class="article-content" >{{ arr.2 }}</p>
+                    <h5><a class="mr-2">Pros</a></h5>
+                    <p class="article-content">{{ arr.3 }}</p>
+                    <h5><a class="mr-2">Cons</a></h5>
+                    <p class="article-content">{{ arr.4 }}</p>
+                   <div>
+
+                     <button type="submit" class="btn btn-primary"> Helpful {{arr.12}}</button>
+
+                    </div>
+          </article>
+          {% endfor%}
+
+          {% endblock %}
+        </div>
+
+        <div class="col-md-4">
+          <div class="content-section">
+            <h4>Reviews by Job Area</h4>
+            <p class='text-muted'>
+              <ul class="list-unstyled">
+                <li class="nav-item">
+                  <a class="list-group-item list-group-item-light" href="{% url 'basic_app:software_engineer' %}">Software </a>
+                </li>
+
+                <li class="nav-item">
+                  <a class="list-group-item list-group-item-light" href="{% url 'basic_app:intern' %}">Intern <span class="sr-only">(current)</span></a>
+                </li>
+
+                <li class="nav-item">
+                  <a class="list-group-item list-group-item-light" href="{% url 'basic_app:web' %}">Web <span class="sr-only">(current)</span></a>
+                </li>
+
+                <li class="nav-item">
+                  <a class="list-group-item list-group-item-light" href="{% url 'basic_app:data' %}">Data <span class="sr-only">(current)</span></a>
+                </li>
+
+                <li class="nav-item">
+                  <a class="list-group-item list-group-item-light" href="{% url 'basic_app:cloud' %}">Cloud <span class="sr-only">(current)</span></a>
+                </li>
+
+                <li class="nav-item">
+                  <a class="list-group-item list-group-item-light" href="{% url 'basic_app:network' %}">Network  <span class="sr-only">(current)</span></a>
+                </li>
+
+                <li class="nav-item">
+                <a class="list-group-item list-group-item-light" href="{% url 'basic_app:hardware' %}">Hardware  <span class="sr-only">(current)</span></a>
+                </li>
+
+              </ul>
+            </p>
+          </div>
+        </div>
+
+        <div class="col-md-4">
+          <div class="content-section2">
+    <h1>here </h>1
+          </div>
+        </div>
+
+
+
+      </div>
+    </main>
